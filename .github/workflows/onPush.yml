@@ -9,6 +9,7 @@ jobs:
   upload-categories:
     name:
     runs-on: ubuntu-latest
+    environment: Backend
 
     steps:
       - name: Checkout Backend repository
