@@ -3,7 +3,7 @@ name: Pull request validations
 on:
   pull_request_target:
     types: [opened, synchronize, reopened]
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   # check-incomplete-positions:
@@ -15,14 +15,14 @@ jobs:
   #       with:
   #         repository: digital-magic-club/vrtx-backend
   #         token: ${{ secrets.VRTX_CI_TOKEN }}
-  #         ref: master
+  #         ref: main
   #         path: backend
 
-  #     - name: Checkout master branch
+  #     - name: Checkout main branch
   #       uses: actions/checkout@v3
   #       with:
-  #         ref: master
-  #         path: master
+  #         ref: main
+  #         path: main
 
   #     - name: Checkout PR branch
   #       uses: actions/checkout@v3
@@ -42,11 +42,11 @@ jobs:
   #         python -m pip install --upgrade pip
   #         pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
 
-  #     - name: Run validation script on Master branch
+  #     - name: Run validation script on Main branch
   #       run: |
-  #         python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/master/dictionaries" > master_output.txt
-  #         grep "Final total sum of incomplete positions" master_output.txt | awk '{print $NF}' > master_count.txt
-  #         echo "MASTER_COUNT=$(cat master_count.txt)" >> $GITHUB_ENV
+  #         python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/main/dictionaries" > main_output.txt
+  #         grep "Final total sum of incomplete positions" main_output.txt | awk '{print $NF}' > main_count.txt
+  #         echo "MAIN_COUNT=$(cat main_count.txt)" >> $GITHUB_ENV
 
   #     - name: Run validation script on PR branch
   #       run: |
@@ -56,16 +56,16 @@ jobs:
 
   #     - name: Compare Incomplete Positions
   #       run: |
-  #         MASTER_COUNT=${MASTER_COUNT:-0}
+  #         MAIN_COUNT=${MAIN_COUNT:-0}
   #         PR_COUNT=${PR_COUNT:-0}
 
-  #         echo "Master branch incomplete positions: $MASTER_COUNT"
+  #         echo "Main branch incomplete positions: $MAIN_COUNT"
   #         echo "PR branch incomplete positions: $PR_COUNT"
 
-  #         if [[ "$PR_COUNT" -gt "$MASTER_COUNT" ]]; then
-  #           INCREASED_BY=$((PR_COUNT - MASTER_COUNT))
+  #         if [[ "$PR_COUNT" -gt "$MAIN_COUNT" ]]; then
+  #           INCREASED_BY=$((PR_COUNT - MAIN_COUNT))
   #           echo "❌ ERROR: The number of incomplete positions has increased by +$INCREASED_BY!"
-  #           echo "  - Master: $MASTER_COUNT"
+  #           echo "  - Main: $MAIN_COUNT"
   #           echo "  - PR: $PR_COUNT"
   #           echo "This pull request is supposed to **reduce** incomplete positions, but it has increased them instead."
   #           exit 1
@@ -86,7 +86,7 @@ jobs:
   #       with:
   #         repository: digital-magic-club/vrtx-backend
   #         token: ${{ secrets.VRTX_CI_TOKEN }}
-  #         ref: master
+  #         ref: main
   #         path: backend
 
   #     - name: Checkout PR branch
@@ -124,7 +124,7 @@ jobs:
   #       with:
   #         repository: digital-magic-club/vrtx-backend
   #         token: ${{ secrets.VRTX_CI_TOKEN }}
-  #         ref: master
+  #         ref: main
   #         path: backend
 
   #     - name: Checkout PR branch
