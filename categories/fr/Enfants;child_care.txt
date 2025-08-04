@@ -9,3 +9,4 @@ pokemon
 roblox
 sonic
 valorant
+pikachu
