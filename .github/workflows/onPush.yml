@@ -36,6 +36,8 @@ jobs:
           pip install -r "$GITHUB_WORKSPACE/backend/categories/requirements.txt"
 
       - name: Run upload categories script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python "$GITHUB_WORKSPACE/backend/categories/upload.py" "$GITHUB_WORKSPACE/main/categories" "$GITHUB_WORKSPACE/main/CATEGORIES.md"
 
