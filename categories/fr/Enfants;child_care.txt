@@ -11,3 +11,4 @@ sonic
 valorant
 pikachu
 luigi
+peach
