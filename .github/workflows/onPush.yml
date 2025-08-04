@@ -41,7 +41,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           FIREBASE_CREDENTIALS_JSON: ${{ secrets.FIREBASE_CREDENTIALS_JSON }}
         run: |
-          python "$GITHUB_WORKSPACE/backend/categories/upload.py" "$GITHUB_WORKSPACE/main/categories" "$GITHUB_WORKSPACE/main/CATEGORIES.md"
+          python "$GITHUB_WORKSPACE/backend/categories/upload.py" "$GITHUB_WORKSPACE/main/categories" --markdown-file "$GITHUB_WORKSPACE/main/CATEGORIES.md"
 
       - name: Check for changes
         run: |
