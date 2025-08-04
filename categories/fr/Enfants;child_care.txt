@@ -10,3 +10,4 @@ roblox
 sonic
 valorant
 pikachu
+luigi
