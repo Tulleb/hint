@@ -64,13 +64,13 @@ jobs:
 
   #         if [[ "$PR_COUNT" -gt "$MAIN_COUNT" ]]; then
   #           INCREASED_BY=$((PR_COUNT - MAIN_COUNT))
-  #           echo "❌ ERROR: The number of incomplete positions has increased by +$INCREASED_BY!"
+  #           echo "ERROR: The number of incomplete positions has increased by +$INCREASED_BY!"
   #           echo "  - Main: $MAIN_COUNT"
   #           echo "  - PR: $PR_COUNT"
   #           echo "This pull request is supposed to **reduce** incomplete positions, but it has increased them instead."
   #           exit 1
   #         else
-  #           echo "✅ Check passed! The number of incomplete positions has not increased."
+  #           echo "Check passed! The number of incomplete positions has not increased."
   #         fi
 
   #     - name: Fail PR if script fails
