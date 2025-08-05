@@ -5,6 +5,6 @@ pikachu
 pokemon
 roblox
 sonic
-✅Batman
-✅Mario
-✅Minecraft
+Batman
+Mario
+Minecraft
