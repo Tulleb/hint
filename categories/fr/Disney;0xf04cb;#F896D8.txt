@@ -1,62 +1,62 @@
 Aladdin
+Alerte rouge
 Alice au pays des merveilles
+Bambi
+Coco
+Fantasia
 Hercule
 La belle et la bête
 La petite sirène
 Le livre de la jungle
 Les 101 dalmatiens
 Là-haut
+Mary Poppins
 Merlin l'enchanteur
+Raiponce
 Rebelle (film)
 Vice-versa
 Élémentaire
-Alerte rouge
-Atlantide, l'empire perdu
-Bambi
-Basil, détective privé
-Blanche-Neige et les Sept Nains
-Cars (film)
-Cendrillon
-Chicken Little
-Coco
-Dumbo
-Encanto : La Fantastique Famille Madrigal
-Fantasia
-Frère des ours
-Kuzco, l'empereur mégalo
-La Belle au bois dormant
-La Belle et le Clochard
-La Princesse et la Grenouille
-La Reine des neiges
-La Reine des neiges 2
-Le Bossu de Notre-Dame
-Le Monde de Nemo
-Le Roi lion
-Les Aristochats
-Les Aventures de Bernard et Bianca
-Les Indestructibles
-Les Mondes de Ralph
-Lilo et Stitch
-Mary Poppins
-Monstres Academy
-Monstres et Cie
-Mulan
-Oliver et Compagnie
-Peter et Elliott le dragon
-Peter Pan
-Pinocchio
-Planes (film)
-Pocahontas
-Raiponce
-Ratatouille
-Robin des Bois
-Rox et Rouky
-Tarzan
-Toy Story
-Toy Story 2
-Toy Story 3
-Toy Story 4
-Vaiana : La Légende du bout du monde
-WALL-E
-Winnie l'ourson
-Zootopie
+✅Atlantide, l'empire perdu
+✅Basil, détective privé
+✅Blanche-Neige et les Sept Nains
+✅Cars (film)
+✅Cendrillon
+✅Chicken Little
+✅Dumbo
+✅Encanto : La Fantastique Famille Madrigal
+✅Frère des ours
+✅Kuzco, l'empereur mégalo
+✅La Belle au bois dormant
+✅La Belle et le Clochard
+✅La Princesse et la Grenouille
+✅La Reine des neiges
+✅La Reine des neiges 2
+✅Le Bossu de Notre-Dame
+✅Le Monde de Nemo
+✅Le Roi lion
+✅Les Aristochats
+✅Les Aventures de Bernard et Bianca
+✅Les Indestructibles
+✅Les Mondes de Ralph
+✅Lilo et Stitch
+✅Monstres Academy
+✅Monstres et Cie
+✅Mulan
+✅Oliver et Compagnie
+✅Peter et Elliott le dragon
+✅Peter Pan
+✅Pinocchio
+✅Planes (film)
+✅Pocahontas
+✅Ratatouille
+✅Robin des Bois
+✅Rox et Rouky
+✅Tarzan
+✅Toy Story
+✅Toy Story 2
+✅Toy Story 3
+✅Toy Story 4
+✅Vaiana : La Légende du bout du monde
+✅WALL-E
+✅Winnie l'ourson
+✅Zootopie
