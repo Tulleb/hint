@@ -1,6 +1,6 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-05 10:28:07 UTC
+**Generated on:** 2025-08-05 11:23:11 UTC
 **Data folder:** /home/runner/work/indix/indix/main/categories
 
 ## Summary
@@ -25,7 +25,7 @@
 ### EN Files
 
 <details>
-<summary>Celebrities (star) [#A882DD]: 98.4% ❌ (2 failed)</summary>
+<summary>Celebrities (0xe5f9) [#A882DD]: 98.4% ❌ (2 failed)</summary>
 
 - 'Chris Evans': Wikipedia page for 'Chris_Evans' in language 'en' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 - 'J.K. Rowling': Wikipedia page for 'J.K._Rowling' in language 'en' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
@@ -45,14 +45,14 @@
 ### FR Files
 
 <details>
-<summary>Enfants (child_care) [#FF8C61]: 90.0% ❌ (1 failed)</summary>
+<summary>Enfants (0xe160) [#FF8C61]: 90.0% ❌ (1 failed)</summary>
 
 - 'donkey kong': Wikipedia page for 'Donkey_kong' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 
 </details>
 
 <details>
-<summary>Disney (castle) [#F896D8]: 75.0% ❌ (5 failed)</summary>
+<summary>Disney (0xf04cb) [#F896D8]: 75.0% ❌ (5 failed)</summary>
 
 - 'Buzz L'Éclair': Wikipedia page for 'Buzz_L'Éclair' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 - 'Dingo': Wikipedia article for 'Dingo' in language 'fr' is too short (865 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
