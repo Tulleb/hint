@@ -1,16 +1,16 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-05 11:35:55 UTC
+**Generated on:** 2025-08-05 15:41:09 UTC
 **Data folder:** /home/runner/work/indix/indix/main/categories
 
 ## Summary
 
 - **Languages processed:** 2
 - **Total files processed:** 3
-- **Total entries processed:** 153
-- **Successful fetches:** 145
-- **Failed fetches:** 8
-- **Success rate:** 94.8%
+- **Total entries processed:** 195
+- **Successful fetches:** 180
+- **Failed fetches:** 15
+- **Success rate:** 92.3%
 
 ## Detailed Results
 
@@ -35,12 +35,12 @@
 </details>
 
 <details>
-<summary>FR - 80.0% ❌ (6 failed)</summary>
+<summary>FR - 81.9% ❌ (13 failed)</summary>
 
 - **Files processed:** 2
-- **Total entries:** 30
-- **Successful:** 24
-- **Failed:** 6
+- **Total entries:** 72
+- **Successful:** 59
+- **Failed:** 13
 
 ### FR Files
 
@@ -52,13 +52,20 @@
 </details>
 
 <details>
-<summary>Disney (0xf04cb) [#F896D8]: 75.0% ❌ (5 failed)</summary>
+<summary>Disney (0xf04cb) [#F896D8]: 80.6% ❌ (12 failed)</summary>
 
-- 'Buzz L'Éclair': Wikipedia page for 'Buzz_L'Éclair' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
-- 'Dingo': Wikipedia article for 'Dingo' in language 'fr' is too short (865 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
-- 'Le Livre de la Jungle': Wikipedia page for 'Le_Livre_de_la_Jungle' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
-- 'Minnie': Wikipedia page for 'Minnie' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
-- 'Woody': Wikipedia article for 'Woody' in language 'fr' is too short (902 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'Alice au pays des merveilles': Wikipedia page for 'Alice_au_pays_des_merveilles' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Les 101 dalmatiens': Wikipedia page for 'Les_101_dalmatiens' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Merlin l'enchanteur': Wikipedia page for 'Merlin_l'enchanteur' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Le livre de la jungle': Wikipedia page for 'Le_livre_de_la_jungle' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'La petite sirène': Wikipedia page for 'La_petite_sirène' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'La belle et la bête': Wikipedia page for 'La_belle_et_la_bête' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Aladdin': Wikipedia page for 'Aladdin' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Hercule': Wikipedia page for 'Hercule' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Là-haut': Wikipedia article for 'Là-haut' in language 'fr' is too short (772 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'Rebelle (film)': Wikipedia page for 'Rebelle_(film)' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Vice-versa': Wikipedia page for 'Vice-versa' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Élémentaire': Wikipedia article for 'Élémentaire' in language 'fr' is too short (913 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
 
 </details>
 
