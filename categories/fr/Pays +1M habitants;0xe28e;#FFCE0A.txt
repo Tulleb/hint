@@ -1,159 +1,159 @@
- Inde
- Chine
- États-Unis
- Indonésie
- Pakistan
- Nigeria
- Brésil
- Bangladesh
- Mexique
- Éthiopie
- Japon
- Philippines
- Égypte
- République démocratique du Congo
- Vietnam
- Iran
- Turquie
- Allemagne
- Thaïlande
- Royaume-Uni
- Tanzanie
- France[g]
- Afrique du Sud
- Italie
- Kenya
- Birmanie
- Colombie
- Corée du Sud
- Soudan
- Ouganda
- Espagne
- Algérie
- Argentine
- Irak
- Afghanistan
- Yémen
- Canada
- Pologne
- Ukraine
- Maroc
- Angola
- Ouzbékistan
- Malaisie
- Pérou
- Ghana
- Mozambique
- Arabie saoudite
- Madagascar
- Côte d'Ivoire
- Népal
- Cameroun
- Venezuela
- Australie
- Corée du Nord
- Niger
- Mali
- Syrie
- Taïwan
- Burkina Faso
- Sri Lanka
- Malawi
- Zambie
- Kazakhstan
- Chili
- Tchad
- Roumanie
- Somalie
- Guatemala
- Pays-Bas
- Sénégal
- Équateur
- Cambodge
- Zimbabwe
- Guinée
- Bénin
- Rwanda
- Burundi
- Bolivie
- Tunisie
- Belgique
- Haïti
- Soudan du Sud
- Jordanie
- République dominicaine
- Cuba
- Tchéquie
- Honduras
- Émirats arabes unis
- Suède
- Portugal
- Tadjikistan
- Papouasie-Nouvelle-Guinée
- Azerbaïdjan
- Grèce
- Hongrie
- Togo
- Autriche
- Biélorussie
- Suisse
- Sierra Leone
- Laos
- Hong Kong
- Turkménistan
- Libye
- Kirghizistan
- Paraguay
- Nicaragua
- Bulgarie
- Serbie
- Salvador
- République du Congo
- Danemark
- Singapour
- Liban
- Finlande
- Norvège
- Slovaquie
- Liberia
- Palestine
- Irlande
- Nouvelle-Zélande
- République centrafricaine
- Costa Rica
- Oman
- Mauritanie
- Koweït
- Panama
- Croatie
- Géorgie
- Érythrée
- Mongolie
- Uruguay
- Porto Rico
- Bosnie-Herzégovine
- Moldavie
- Qatar
- Namibie
- Arménie
- Lituanie
- Jamaïque
- Albanie
- Gambie
- Gabon
- Botswana
- Lesotho
- Guinée-Bissau
- Slovénie
- Lettonie
- Guinée équatoriale
- Macédoine du Nord
- Kosovo
- Bahreïn
- Trinité-et-Tobago
- Timor oriental
- Estonie
- Chypre
- Maurice
- Eswatini
- Djibouti
+Chypre
+Géorgie
+Irlande
+Maurice
+Palestine
+Équateur
+✅Afghanistan
+✅Afrique du Sud
+✅Albanie
+✅Algérie
+✅Allemagne
+✅Angola
+✅Arabie saoudite
+✅Argentine
+✅Arménie
+✅Australie
+✅Autriche
+✅Azerbaïdjan
+✅Bahreïn
+✅Bangladesh
+✅Belgique
+✅Birmanie
+✅Biélorussie
+✅Bolivie
+✅Bosnie-Herzégovine
+✅Botswana
+✅Brésil
+✅Bulgarie
+✅Burkina Faso
+✅Burundi
+✅Bénin
+✅Cambodge
+✅Cameroun
+✅Canada
+✅Chili
+✅Chine
+✅Colombie
+✅Corée du Nord
+✅Corée du Sud
+✅Costa Rica
+✅Croatie
+✅Cuba
+✅Côte d'Ivoire
+✅Danemark
+✅Djibouti
+✅Espagne
+✅Estonie
+✅Eswatini
+✅Finlande
+✅France Gall
+✅Gabon
+✅Gambie
+✅Ghana
+✅Grèce
+✅Guatemala
+✅Guinée
+✅Guinée équatoriale
+✅Guinée-Bissau
+✅Haïti
+✅Honduras
+✅Hong Kong
+✅Hongrie
+✅Inde
+✅Indonésie
+✅Irak
+✅Iran
+✅Italie
+✅Jamaïque
+✅Japon
+✅Jordanie
+✅Kazakhstan
+✅Kenya
+✅Kirghizistan
+✅Kosovo
+✅Koweït
+✅Laos
+✅Lesotho
+✅Lettonie
+✅Liban
+✅Liberia
+✅Libye
+✅Lituanie
+✅Macédoine du Nord
+✅Madagascar
+✅Malaisie
+✅Malawi
+✅Mali
+✅Maroc
+✅Mauritanie
+✅Mexique
+✅Moldavie
+✅Mongolie
+✅Mozambique
+✅Namibie
+✅Nicaragua
+✅Niger
+✅Nigeria
+✅Norvège
+✅Nouvelle-Zélande
+✅Népal
+✅Oman
+✅Ouganda
+✅Ouzbékistan
+✅Pakistan
+✅Panama
+✅Papouasie-Nouvelle-Guinée
+✅Paraguay
+✅Pays-Bas
+✅Philippines
+✅Pologne
+✅Porto Rico
+✅Portugal
+✅Pérou
+✅Qatar
+✅Roumanie
+✅Royaume-Uni
+✅Rwanda
+✅République centrafricaine
+✅République dominicaine
+✅République du Congo
+✅République démocratique du Congo
+✅Salvador
+✅Serbie
+✅Sierra Leone
+✅Singapour
+✅Slovaquie
+✅Slovénie
+✅Somalie
+✅Soudan
+✅Soudan du Sud
+✅Sri Lanka
+✅Suisse
+✅Suède
+✅Syrie
+✅Sénégal
+✅Tadjikistan
+✅Tanzanie
+✅Taïwan
+✅Tchad
+✅Tchéquie
+✅Thaïlande
+✅Timor oriental
+✅Togo
+✅Trinité-et-Tobago
+✅Tunisie
+✅Turkménistan
+✅Turquie
+✅Ukraine
+✅Uruguay
+✅Venezuela
+✅Vietnam
+✅Yémen
+✅Zambie
+✅Zimbabwe
+✅Égypte
+✅Émirats arabes unis
+✅Érythrée
+✅États-Unis
+✅Éthiopie

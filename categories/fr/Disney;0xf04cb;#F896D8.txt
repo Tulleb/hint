@@ -1,11 +1,3 @@
-La petite sirène (film, 1989)
-Le livre de la jungle (film, 1967)
-Les 101 dalmatiens (film, 1961)
-Là-haut (film, 2009)
-Merlin l'enchanteur (film, 1963)
-Raiponce (film, 2010)
-Rebelle (film d'animation, 2012)
-Vice-versa (film, 2015)
 ✅Aladdin (film, 1992)
 ✅Alerte rouge (film, 2022)
 ✅Alice au pays des merveilles (film, 1951)
@@ -26,18 +18,23 @@ Vice-versa (film, 2015)
 ✅La Belle au bois dormant
 ✅La Belle et la Bête (film, 1991)
 ✅La Belle et le Clochard
+✅La Petite Sirène (film, 1989)
 ✅La Princesse et la Grenouille
 ✅La Reine des neiges
 ✅La Reine des neiges 2
 ✅Le Bossu de Notre-Dame
+✅Le Livre de la jungle (film, 1967)
 ✅Le Monde de Nemo
 ✅Le Roi lion
+✅Les 101 Dalmatiens (film, 1961)
 ✅Les Aristochats
 ✅Les Aventures de Bernard et Bianca
 ✅Les Indestructibles
 ✅Les Mondes de Ralph
 ✅Lilo et Stitch
+✅Là-haut (film, 2009)
 ✅Mary Poppins (film)
+✅Merlin l'Enchanteur (film, 1963)
 ✅Monstres Academy
 ✅Monstres et Cie
 ✅Mulan
@@ -47,7 +44,9 @@ Vice-versa (film, 2015)
 ✅Pinocchio
 ✅Planes (film)
 ✅Pocahontas
+✅Raiponce (film, 2010)
 ✅Ratatouille
+✅Rebelle (film d'animation, 2012)
 ✅Robin des Bois
 ✅Rox et Rouky
 ✅Tarzan
@@ -56,6 +55,7 @@ Vice-versa (film, 2015)
 ✅Toy Story 3
 ✅Toy Story 4
 ✅Vaiana : La Légende du bout du monde
+✅Vice-versa (film, 2015)
 ✅WALL-E
 ✅Winnie l'ourson
 ✅Zootopie

@@ -1,15 +1,9 @@
-Avatar (film, 2009)
-Dune (film, 2021)
-Harry Potter et le Prisonnier d’Azkaban (film)
 Independence Day (film)
 Indiana Jones et le Temple perdu (film)
-Intouchables (film)
-Iron Man (film)
-Kaamelott : Premier Volet
-Men in Black (film, 1997)
 ✅1917 (film)
 ✅Astérix aux Jeux olympiques (film)
 ✅Astérix et Obélix : Mission Cléopâtre
+✅Avatar (film, 2009)
 ✅Avengers: Endgame
 ✅Avengers: Infinity War
 ✅Barbie (film)
@@ -21,19 +15,24 @@ Men in Black (film, 1997)
 ✅Chouchou (film)
 ✅Coup de foudre à Notting Hill
 ✅Django Unchained
+✅Dune (film, 2021)
 ✅E.T., l'extra-terrestre
 ✅Fast and Furious
 ✅Gladiator (film, 2000)
 ✅Harry Potter et l'Ordre du Phénix (film)
 ✅Harry Potter et la Chambre des secrets
 ✅Harry Potter et la Coupe de feu
+✅Harry Potter et le Prisonnier d'Azkaban (film)
 ✅Harry Potter à l'école des sorciers
 ✅Inception
 ✅Indiana Jones et la Dernière Croisade
 ✅Indiana Jones et le Royaume du crâne de cristal
 ✅Interstellar
+✅Intouchables (film)
+✅Iron Man (film)
 ✅Joker (film, 2019)
 ✅Jurassic Park
+✅Kaamelott : Premier Volet
 ✅La Famille Bélier
 ✅La Reine des neiges (film, 2013)
 ✅La Reine des neiges 2
@@ -57,6 +56,7 @@ Men in Black (film, 1997)
 ✅Les Trois Frères
 ✅Les Tuche (série de films)
 ✅Matrix (film)
+✅Men in Black (film, 1997)
 ✅Mission impossible (film)
 ✅Moi, moche et méchant
 ✅Mourir peut attendre
