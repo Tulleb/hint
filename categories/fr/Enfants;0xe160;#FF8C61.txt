@@ -1,5 +1,6 @@
-donkey kong
-Mario
+Donkey Kong (personnage)
+Peach (personnage)
+Mario (personnage)
 ✅Batman
 ✅Luigi
 ✅Minecraft
