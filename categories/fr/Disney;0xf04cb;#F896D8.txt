@@ -1,32 +1,30 @@
-Aladdin (film, 1992)
-Alerte rouge (film, 2022)
-Alice au pays des merveilles (film, 1951)
-Bambi (film, 1942)
-Coco (film, 2017)
-Fantasia (film, 1940)
-Hercule (film, 1997)
-La belle et la bête (film, 1991)
 La petite sirène
 Le livre de la jungle
 Les 101 dalmatiens
 Là-haut (film, 1989)
-Mary Poppins (film)
 Merlin l'enchanteur (film)
 Raiponce (film)
 Rebelle (film)
 Vice-versa (film)
-Élémentaire (film)
+✅Aladdin (film, 1992)
+✅Alerte rouge (film, 2022)
+✅Alice au pays des merveilles (film, 1951)
 ✅Atlantide, l'empire perdu
+✅Bambi (film, 1942)
 ✅Basil, détective privé
 ✅Blanche-Neige et les Sept Nains
 ✅Cars (film)
 ✅Cendrillon
 ✅Chicken Little
+✅Coco (film, 2017)
 ✅Dumbo
 ✅Encanto : La Fantastique Famille Madrigal
+✅Fantasia (film, 1940)
 ✅Frère des ours
+✅Hercule (film, 1997)
 ✅Kuzco, l'empereur mégalo
 ✅La Belle au bois dormant
+✅La Belle et la Bête (film, 1991)
 ✅La Belle et le Clochard
 ✅La Princesse et la Grenouille
 ✅La Reine des neiges
@@ -39,6 +37,7 @@ Vice-versa (film)
 ✅Les Indestructibles
 ✅Les Mondes de Ralph
 ✅Lilo et Stitch
+✅Mary Poppins (film)
 ✅Monstres Academy
 ✅Monstres et Cie
 ✅Mulan
@@ -60,3 +59,4 @@ Vice-versa (film)
 ✅WALL-E
 ✅Winnie l'ourson
 ✅Zootopie
+✅Élémentaire (film)

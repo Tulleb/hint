@@ -1,7 +1,3 @@
-Chris Evans (actor)
-Drake (musician)
-J. K. Rowling
-Usher (musician)
 ✅Adam Sandler
 ✅Adele
 ✅Akon
@@ -22,11 +18,13 @@ Usher (musician)
 ✅Buzz Aldrin
 ✅Camila Cabello
 ✅Celine Dion
+✅Chris Evans (actor)
 ✅Daniel Craig
 ✅Dave Grohl
 ✅David Bowie
 ✅DJ Khaled
 ✅Donald Trump
+✅Drake (musician)
 ✅Dua Lipa
 ✅Ed Sheeran
 ✅Eddie Murphy
@@ -44,6 +42,7 @@ Usher (musician)
 ✅Henry Cavill
 ✅Hugh Jackman
 ✅Ian McKellen
+✅J. K. Rowling
 ✅James Dean
 ✅Jamie Foxx
 ✅Janis Joplin
@@ -99,6 +98,7 @@ Usher (musician)
 ✅Tony Blair
 ✅Uma Thurman
 ✅Usain Bolt
+✅Usher (musician)
 ✅Vin Diesel
 ✅Walt Disney
 ✅Will Smith
