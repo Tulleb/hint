@@ -1,16 +1,16 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-06 11:05:46 UTC
+**Generated on:** 2025-08-06 18:54:43 UTC
 **Data folder:** /home/runner/work/indix/indix/main/categories
 
 ## Summary
 
-- **Languages processed:** 2
-- **Total files processed:** 11
-- **Total entries processed:** 904
-- **Successful fetches:** 890
-- **Failed fetches:** 14
-- **Success rate:** 98.5%
+- **Languages processed:** 3
+- **Total files processed:** 15
+- **Total entries processed:** 1271
+- **Successful fetches:** 1245
+- **Failed fetches:** 26
+- **Success rate:** 98.0%
 
 ## Detailed Results
 
@@ -37,12 +37,12 @@
 </details>
 
 <details>
-<summary>FR - 98.2% ❌ (14 failed)</summary>
+<summary>FR - 98.0% ❌ (15 failed)</summary>
 
 - **Files processed:** 9
 - **Total entries:** 768
-- **Successful:** 754
-- **Failed:** 14
+- **Successful:** 753
+- **Failed:** 15
 
 ### FR Files
 
@@ -83,12 +83,12 @@
 <details>
 <summary>Pays +1M habitants (0xe28e) [#FFCE0A]: 96.2% ❌ (6 failed)</summary>
 
-- 'Équateur': Wikipedia page for 'Équateur' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
-- 'Palestine': Wikipedia page for 'Palestine' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
-- 'Irlande': Wikipedia page for 'Irlande' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
-- 'Géorgie': Wikipedia article for 'Géorgie' in language 'fr' is too short (763 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
 - 'Chypre': Wikipedia page for 'Chypre' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'Géorgie': Wikipedia article for 'Géorgie' in language 'fr' is too short (763 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'Irlande': Wikipedia page for 'Irlande' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 - 'Maurice': Wikipedia page for 'Maurice' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'Palestine': Wikipedia page for 'Palestine' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'Équateur': Wikipedia page for 'Équateur' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -98,16 +98,62 @@
 </details>
 
 <details>
-<summary>Célébrités (0xe5f9) [#A882DD]: 98.4% ❌ (3 failed)</summary>
+<summary>Célébrités (0xe5f9) [#A882DD]: 97.8% ❌ (4 failed)</summary>
 
 - 'Commandant Cousteau': Wikipedia page for 'Commandant_Cousteau' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 - 'Drake (musicien)': No Wikipedia article exists for 'Drake (musicien)' in language 'fr'. Try using a different search term or check the spelling.
 - 'Usher (musicien)': No Wikipedia article exists for 'Usher (musicien)' in language 'fr'. Try using a different search term or check the spelling.
+- 'Celine Dion': Wikipedia page for 'Celine_Dion' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 
 </details>
 
 <details>
 <summary>Disney (0xf04cb) [#F896D8]: 100.0% ✅</summary>
+
+</details>
+
+</details>
+
+<details>
+<summary>PT - 97.0% ❌ (11 failed)</summary>
+
+- **Files processed:** 4
+- **Total entries:** 367
+- **Successful:** 356
+- **Failed:** 11
+
+### PT Files
+
+<details>
+<summary>Países +1M habitantes (0xe28e) [#FFCE0A]: 96.2% ❌ (6 failed)</summary>
+
+- 'Hong Kong (China)': No Wikipedia article exists for 'Hong Kong (China)' in language 'pt'. Try using a different search term or check the spelling.
+- 'Congo': Wikipedia page for 'Congo' in language 'pt' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'Palestina': Wikipedia page for 'Palestina' in language 'pt' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'Porto Rico (Estados Unidos)': No Wikipedia article exists for 'Porto Rico (Estados Unidos)' in language 'pt'. Try using a different search term or check the spelling.
+- 'Barém': Wikipedia page for 'Barém' in language 'pt' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Eswatini': Wikipedia page for 'Eswatini' in language 'pt' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+
+</details>
+
+<details>
+<summary>Celebridades (0xe5f9) [#A882DD]: 95.3% ❌ (5 failed)</summary>
+
+- 'Celine Dion': Wikipedia page for 'Celine_Dion' in language 'pt' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Chris Evans (actor)': No Wikipedia article exists for 'Chris Evans (actor)' in language 'pt'. Try using a different search term or check the spelling.
+- 'Drake (musician)': No Wikipedia article exists for 'Drake (musician)' in language 'pt'. Try using a different search term or check the spelling.
+- 'Mark Hamill': Wikipedia article for 'Mark_Hamill' in language 'pt' is too short (532 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'Usher (musician)': No Wikipedia article exists for 'Usher (musician)' in language 'pt'. Try using a different search term or check the spelling.
+
+</details>
+
+<details>
+<summary>Países +10M habitantes (0xe28e) [#B1C1C0]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Países +100M habitantes (0xe28e) [#E06D06]: 100.0% ✅</summary>
 
 </details>
 
