@@ -1,3 +1,14 @@
+Alberto Santos Dumont
+Celine Dion
+Chris Evans (actor)
+Drake (musician)
+Fausto Silva (Faustão)
+Gustavo “Guga” Kuerten
+Mark Hamill
+Marta
+Ronaldo (Fenômeno)
+Usher (musician)
+Xuxa Meneghel
 ✅Adam Sandler
 ✅Adele
 ✅Akon
@@ -5,6 +16,8 @@
 ✅Alan Turing
 ✅Amy Adams
 ✅Andy Warhol
+✅Anitta
+✅Ayrton Senna
 ✅Barack Obama
 ✅Ben Affleck
 ✅Ben Stiller
@@ -16,30 +29,53 @@
 ✅Brad Pitt
 ✅Bruno Mars
 ✅Buzz Aldrin
+✅Caetano Veloso
 ✅Camila Cabello
+✅Carmen Miranda
+✅Cazuza
+✅Chico Anysio
+✅Chico Buarque
+✅Chico Mendes
+✅Chico Xavier
+✅Clarice Lispector
 ✅Daniel Craig
 ✅Dave Grohl
 ✅David Bowie
+✅Dercy Gonçalves
+✅Dilma Rousseff
 ✅DJ Khaled
 ✅Donald Trump
 ✅Dua Lipa
 ✅Ed Sheeran
 ✅Eddie Murphy
+✅Edir Macedo
 ✅Elijah Wood
+✅Elis Regina
 ✅Elon Musk
 ✅Elton John
 ✅Eminem
 ✅Emma Stone
 ✅Eric Clapton
 ✅Eva Mendes
+✅Fernanda Montenegro
+✅Fernando Henrique Cardoso
+✅Garrincha
 ✅George Lucas
+✅Getúlio Vargas
+✅Gilberto Gil
+✅Gisele Bündchen
 ✅Grace Kelly
+✅Gugu Liberato
 ✅Harry Styles
 ✅Heath Ledger
+✅Hebe Camargo
 ✅Henry Cavill
 ✅Hugh Jackman
 ✅Ian McKellen
+✅Irmã Dulce
+✅Ivete Sangalo
 ✅J. K. Rowling
+✅Jair Bolsonaro
 ✅James Dean
 ✅Jamie Foxx
 ✅Janis Joplin
@@ -51,6 +87,8 @@
 ✅John Lennon
 ✅Johnny Depp
 ✅Jonah Hill
+✅Jorge Amado
+✅Juscelino Kubitschek
 ✅Kanye West
 ✅Kate Winslet
 ✅Katy Perry
@@ -61,22 +99,35 @@
 ✅Leonardo DiCaprio
 ✅Liam Neeson
 ✅Liv Tyler
+✅Luiz Gonzaga
+✅Luiz Inácio Lula da Silva
 ✅Madonna
 ✅Malcolm X
 ✅Mariah Carey
 ✅Matt Damon
 ✅Meryl Streep
 ✅Mick Jagger
+✅Monteiro Lobato
 ✅Natalie Portman
 ✅Neil Armstrong
+✅Neymar
 ✅Oprah Winfrey
+✅Oswaldo Cruz
 ✅Paul McCartney
+✅Paulo Coelho
+✅Paulo Freire
+✅Pelé
 ✅Rachel McAdams
+✅Renato Aragão
+✅Renato Russo
 ✅Ridley Scott
 ✅Rihanna
 ✅Ringo Starr
 ✅Robert De Niro
+✅Roberto Carlos
 ✅Roger Moore
+✅Romário
+✅Ronaldinho Gaúcho
 ✅Rosa Parks
 ✅Rupert Grint
 ✅Ryan Gosling
@@ -84,6 +135,7 @@
 ✅Selena Gomez
 ✅Shania Twain
 ✅Shawn Mendes
+✅Silvio Santos
 ✅Snoop Dogg
 ✅Steve Jobs
 ✅Taylor Swift
@@ -91,66 +143,14 @@
 ✅Tim Burton
 ✅Tina Turner
 ✅Tom Cruise
+✅Tom Jobim
 ✅Tony Blair
 ✅Uma Thurman
 ✅Usain Bolt
 ✅Vin Diesel
+✅Vinicius de Moraes
 ✅Walt Disney
 ✅Will Smith
 ✅Yoko Ono
 ✅Zendaya
-Alberto Santos Dumont
-Anitta
-Ayrton Senna
-Caetano Veloso
-Carmen Miranda
-Cazuza
-Celine Dion
-Chico Anysio
-Chico Buarque
-Chico Mendes
-Chico Xavier
-Chris Evans (actor)
-Clarice Lispector
-Dercy Gonçalves
-Dilma Rousseff
-Drake (musician)
-Edir Macedo
-Elis Regina
-Fausto Silva (Faustão)
-Fernanda Montenegro
-Fernando Henrique Cardoso
-Garrincha
-Getúlio Vargas
-Gilberto Gil
-Gisele Bündchen
-Gugu Liberato
-Gustavo “Guga” Kuerten
-Hebe Camargo
-Irmã Dulce
-Ivete Sangalo
-Jair Bolsonaro
-Jorge Amado
-Juscelino Kubitschek
-Luiz Gonzaga
-Luiz Inácio Lula da Silva
-Mark Hamill
-Marta
-Monteiro Lobato
-Neymar
-Oswaldo Cruz
-Paulo Coelho
-Paulo Freire
-Pelé
-Renato Aragão
-Renato Russo
-Roberto Carlos
-Romário
-Ronaldinho Gaúcho
-Ronaldo (Fenômeno)
-Silvio Santos
-Tom Jobim
-Usher (musician)
-Vinicius de Moraes
-Xuxa Meneghel
-Zico
+✅Zico
