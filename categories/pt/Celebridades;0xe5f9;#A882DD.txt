@@ -1,8 +1,3 @@
-Celine Dion
-Chris Evans (actor)
-Drake (musician)
-Mark Hamill
-Usher (musician)
 ✅Adam Sandler
 ✅Adele
 ✅Akon
@@ -104,3 +99,58 @@ Usher (musician)
 ✅Will Smith
 ✅Yoko Ono
 ✅Zendaya
+Alberto Santos Dumont
+Anitta
+Ayrton Senna
+Caetano Veloso
+Carmen Miranda
+Cazuza
+Celine Dion
+Chico Anysio
+Chico Buarque
+Chico Mendes
+Chico Xavier
+Chris Evans (actor)
+Clarice Lispector
+Dercy Gonçalves
+Dilma Rousseff
+Drake (musician)
+Edir Macedo
+Elis Regina
+Fausto Silva (Faustão)
+Fernanda Montenegro
+Fernando Henrique Cardoso
+Garrincha
+Getúlio Vargas
+Gilberto Gil
+Gisele Bündchen
+Gugu Liberato
+Gustavo “Guga” Kuerten
+Hebe Camargo
+Irmã Dulce
+Ivete Sangalo
+Jair Bolsonaro
+Jorge Amado
+Juscelino Kubitschek
+Luiz Gonzaga
+Luiz Inácio Lula da Silva
+Mark Hamill
+Marta
+Monteiro Lobato
+Neymar
+Oswaldo Cruz
+Paulo Coelho
+Paulo Freire
+Pelé
+Renato Aragão
+Renato Russo
+Roberto Carlos
+Romário
+Ronaldinho Gaúcho
+Ronaldo (Fenômeno)
+Silvio Santos
+Tom Jobim
+Usher (musician)
+Vinicius de Moraes
+Xuxa Meneghel
+Zico
