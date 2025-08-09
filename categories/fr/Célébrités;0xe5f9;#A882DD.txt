@@ -1,7 +1,3 @@
-Céline Dion
-Jacques-Yves Cousteau
-Drake (rappeur)
-Usher
 ✅Abbé Pierre
 ✅Adam Sandler
 ✅Adele
@@ -39,6 +35,7 @@ Usher
 ✅Christian Clavier
 ✅Clara Luciani
 ✅Cyril Lignac
+✅Céline Dion
 ✅Daniel Craig
 ✅Dany Boon
 ✅Dave Grohl
@@ -46,6 +43,7 @@ Usher
 ✅David Douillet
 ✅DJ Khaled
 ✅Donald Trump
+✅Drake (rappeur)
 ✅Dua Lipa
 ✅Ed Sheeran
 ✅Eddie Murphy
@@ -78,6 +76,7 @@ Usher
 ✅Hugh Jackman
 ✅Ian McKellen
 ✅J. K. Rowling
+✅Jacques-Yves Cousteau
 ✅Jamel Debbouze
 ✅James Dean
 ✅Jamie Foxx
@@ -171,6 +170,7 @@ Usher
 ✅Tony Blair
 ✅Uma Thurman
 ✅Usain Bolt
+✅Usher
 ✅Vianney
 ✅Vin Diesel
 ✅Virginie Efira

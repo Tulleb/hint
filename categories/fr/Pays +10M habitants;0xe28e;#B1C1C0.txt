@@ -1,4 +1,3 @@
-Équateur (pays)
 ✅Afghanistan
 ✅Afrique du Sud
 ✅Algérie
@@ -90,5 +89,6 @@
 ✅Zimbabwe
 ✅Égypte
 ✅Émirats arabes unis
+✅Équateur (pays)
 ✅États-Unis
 ✅Éthiopie

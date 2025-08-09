@@ -1,9 +1,3 @@
-Chypre (pays)
-Géorgie (pays)
-Irlande (pays)
-Maurice (pays)
-Palestine (État)
-Équateur (pays)
 ✅Afghanistan
 ✅Afrique du Sud
 ✅Albanie
@@ -34,6 +28,7 @@ Palestine (État)
 ✅Canada
 ✅Chili
 ✅Chine
+✅Chypre (pays)
 ✅Colombie
 ✅Corée du Nord
 ✅Corée du Sud
@@ -56,6 +51,7 @@ Palestine (État)
 ✅Guinée
 ✅Guinée équatoriale
 ✅Guinée-Bissau
+✅Géorgie (pays)
 ✅Haïti
 ✅Honduras
 ✅Hong Kong
@@ -64,6 +60,7 @@ Palestine (État)
 ✅Indonésie
 ✅Irak
 ✅Iran
+✅Irlande (pays)
 ✅Italie
 ✅Jamaïque
 ✅Japon
@@ -86,6 +83,7 @@ Palestine (État)
 ✅Malawi
 ✅Mali
 ✅Maroc
+✅Maurice (pays)
 ✅Mauritanie
 ✅Mexique
 ✅Moldavie
@@ -102,6 +100,7 @@ Palestine (État)
 ✅Ouganda
 ✅Ouzbékistan
 ✅Pakistan
+✅Palestine (État)
 ✅Panama
 ✅Papouasie-Nouvelle-Guinée
 ✅Paraguay
@@ -154,6 +153,7 @@ Palestine (État)
 ✅Zimbabwe
 ✅Égypte
 ✅Émirats arabes unis
+✅Équateur (pays)
 ✅Érythrée
 ✅États-Unis
 ✅Éthiopie
