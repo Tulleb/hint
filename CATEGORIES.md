@@ -1,6 +1,6 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-09 12:10:43 UTC
+**Generated on:** 2025-08-09 12:51:49 UTC
 **Data folder:** /home/runner/work/indix/indix/main/categories
 
 ## Summary
@@ -25,12 +25,12 @@
 ### EN Files
 
 <details>
-<summary>Celebrities (0xe5f9) [#A882DD]: 100.0% ✅</summary>
+<summary>Celebrities (0xe5f9) [Foreground: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>NBA Teams (0xe5e6) [#3626A7]: 100.0% ✅</summary>
+<summary>NBA Teams (0xe5e6) [Foreground: #CC2B32] [Background: #0054A4]: 100.0% ✅</summary>
 
 </details>
 
@@ -47,47 +47,47 @@
 ### FR Files
 
 <details>
-<summary>Pays +1M habitants (0xe28e) [#FFCE0A]: 100.0% ✅</summary>
+<summary>Pays +1M habitants (0xe28e) [Foreground: #48392A] [Background: #FFCE0A]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Enfants (0xe160) [#FF8C61]: 100.0% ✅</summary>
+<summary>Enfants (0xe160) [Foreground: #FE5F55] [Background: #7A3B69]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Pays +10M habitants (0xe28e) [#B1C1C0]: 100.0% ✅</summary>
+<summary>Célébrités (0xe5f9) [Foreground: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Équipe de France de Football (0xe5f2) [#235789]: 100.0% ✅</summary>
+<summary>Franchises NBA (0xe5e6) [Foreground: #CC2B32] [Background: #0054A4]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Franchises NBA (0xe5e6) [#3626A7]: 100.0% ✅</summary>
+<summary>Disney (0xf04cb) [Foreground: #FFFFFF] [Background: #113E8D]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Célébrités (0xe5f9) [#A882DD]: 100.0% ✅</summary>
+<summary>Films (0xe40d) [Foreground: #2A3D45] [Background: #7A6C5D]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Films (0xe40d) [#629460]: 100.0% ✅</summary>
+<summary>Pays +10M habitants (0xe28e) [Foreground: #3C3744] [Background: #B1C1C0]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Disney (0xf04cb) [#F896D8]: 100.0% ✅</summary>
+<summary>Pays +100M habitants (0xe28e) [Foreground: #333333] [Background: #E06D06]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Pays +100M habitants (0xe28e) [#E06D06]: 100.0% ✅</summary>
+<summary>Équipe de France de Football (0xe5f2) [Foreground: #CFAE77] [Background: #0171B5]: 100.0% ✅</summary>
 
 </details>
 
@@ -104,22 +104,22 @@
 ### PT Files
 
 <details>
-<summary>Países +100M habitantes (0xe28e) [#E06D06]: 100.0% ✅</summary>
+<summary>Celebridades (0xe5f9) [Foreground: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Países +10M habitantes (0xe28e) [#B1C1C0]: 100.0% ✅</summary>
+<summary>Países +1M habitantes (0xe28e) [Foreground: #48392A] [Background: #FFCE0A]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Países +1M habitantes (0xe28e) [#FFCE0A]: 100.0% ✅</summary>
+<summary>Países +100M habitantes (0xe28e) [Foreground: #333333] [Background: #E06D06]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Celebridades (0xe5f9) [#A882DD]: 100.0% ✅</summary>
+<summary>Países +10M habitantes (0xe28e) [Foreground: #3C3744] [Background: #B1C1C0]: 100.0% ✅</summary>
 
 </details>
 
