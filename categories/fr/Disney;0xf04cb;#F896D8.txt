@@ -1,4 +1,3 @@
-Pocahontas : Une légende indienne
 ✅Aladdin (film, 1992)
 ✅Alerte rouge (film, 2022)
 ✅Alice au pays des merveilles (film, 1951)
@@ -44,6 +43,7 @@ Pocahontas : Une légende indienne
 ✅Peter Pan
 ✅Pinocchio
 ✅Planes (film)
+✅Pocahontas : Une légende indienne
 ✅Raiponce (film, 2010)
 ✅Ratatouille
 ✅Rebelle (film d'animation, 2012)

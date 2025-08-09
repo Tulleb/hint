@@ -1,6 +1,6 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-09 11:25:15 UTC
+**Generated on:** 2025-08-09 12:10:43 UTC
 **Data folder:** /home/runner/work/indix/indix/main/categories
 
 ## Summary
@@ -8,9 +8,9 @@
 - **Languages processed:** 3
 - **Total files processed:** 15
 - **Total entries processed:** 1320
-- **Successful fetches:** 1319
-- **Failed fetches:** 1
-- **Success rate:** 99.9%
+- **Successful fetches:** 1320
+- **Failed fetches:** 0
+- **Success rate:** 100.0%
 
 ## Detailed Results
 
@@ -37,12 +37,12 @@
 </details>
 
 <details>
-<summary>FR - 99.9% ❌ (1 failed)</summary>
+<summary>FR - 100.0% ✅</summary>
 
 - **Files processed:** 9
 - **Total entries:** 768
-- **Successful:** 767
-- **Failed:** 1
+- **Successful:** 768
+- **Failed:** 0
 
 ### FR Files
 
@@ -82,9 +82,7 @@
 </details>
 
 <details>
-<summary>Disney (0xf04cb) [#F896D8]: 98.4% ❌ (1 failed)</summary>
-
-- 'Pocahontas (film)': Wikipedia page for 'Pocahontas_(film,_1995)' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+<summary>Disney (0xf04cb) [#F896D8]: 100.0% ✅</summary>
 
 </details>
 
