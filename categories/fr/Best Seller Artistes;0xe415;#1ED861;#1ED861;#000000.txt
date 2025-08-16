@@ -1,20 +1,19 @@
-AC/DC
-Artist
-Celine Dion
-Cher
-Drake
-Earth, Wind & Fire
-Genesis
-James Taylor
-Journey
-Kiss
-Nirvana
-Pink
-Prince
-Roberto Carlos
-Santana
-Simon & Garfunkel
-The Black Eyed Peas
+AC\/DC
+Céline Dion
+Cher (artiste)
+Drake (rappeur)
+Earth, Wind and Fire
+Genesis (groupe)
+James Taylor (musicien)
+Journey (groupe)
+Kiss (groupe)
+Nirvana (groupe)
+Pink (chanteuse)
+Prince (chanteur)
+Roberto Carlos (chanteur)
+Santana (groupe)
+Simon and Garfunkel
+Black Eyed Peas
 ✅ABBA
 ✅Adele
 ✅Aerosmith
