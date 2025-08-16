@@ -1,6 +1,6 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-16 13:45:31 UTC
+**Generated on:** 2025-08-16 14:04:48 UTC
 **Data folder:** /home/runner/work/indix/indix/main/categories
 
 ## Summary
@@ -8,9 +8,9 @@
 - **Languages processed:** 3
 - **Total files processed:** 39
 - **Total entries processed:** 2938
-- **Successful fetches:** 2907
-- **Failed fetches:** 31
-- **Success rate:** 98.9%
+- **Successful fetches:** 2908
+- **Failed fetches:** 30
+- **Success rate:** 99.0%
 
 ## Detailed Results
 
@@ -27,7 +27,7 @@
 <details>
 <summary>Best Selling Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 99.2% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -56,14 +56,14 @@
 <details>
 <summary>Top 70s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.3% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
 <details>
 <summary>Top 90s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.7% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -80,14 +80,14 @@
 <details>
 <summary>Top 80s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.5% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
 <details>
 <summary>Top 2000s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.4% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -104,12 +104,12 @@
 </details>
 
 <details>
-<summary>FR - 99.5% ❌ (6 failed)</summary>
+<summary>FR - 99.6% ❌ (5 failed)</summary>
 
 - **Files processed:** 16
 - **Total entries:** 1242
-- **Successful:** 1236
-- **Failed:** 6
+- **Successful:** 1237
+- **Failed:** 5
 
 ### FR Files
 
@@ -121,7 +121,7 @@
 <details>
 <summary>Top artistes 80s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.5% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -143,7 +143,7 @@
 <details>
 <summary>Top artistes 2000s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.4% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -155,14 +155,14 @@
 <details>
 <summary>Top artistes 90s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.7% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
 <details>
 <summary>Top artistes 70s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.3% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -182,16 +182,14 @@
 </details>
 
 <details>
-<summary>Top artistes streaming (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.0% ❌ (1 failed)</summary>
-
-- 'Future (groupe)': Wikipedia page for 'Future_Coupe_du_monde_des_clubs_de_la_FIFA' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+<summary>Top artistes streaming (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
 <details>
 <summary>Top artistes global (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 99.2% ❌ (1 failed)</summary>
 
-- 'AC\/DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'AC/DC': Wikipedia page for 'AC' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 
 </details>
 
@@ -225,7 +223,7 @@
 <details>
 <summary>Artistas anos 70 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.3% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'AC/DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
 
 </details>
 
@@ -242,7 +240,7 @@
 <details>
 <summary>Artistas anos 90 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.7% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'AC/DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
 
 </details>
 
@@ -274,14 +272,14 @@
 <details>
 <summary>Artistas anos 2000 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 98.4% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'AC/DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
 
 </details>
 
 <details>
 <summary>Artistas mais vendidos (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 99.2% ❌ (1 failed)</summary>
 
-- 'AC//DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+- 'AC/DC': Wikipedia article for 'AC' in language 'pt' is too short (835 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
 
 </details>
 

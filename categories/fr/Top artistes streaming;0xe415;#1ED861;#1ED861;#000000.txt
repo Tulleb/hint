@@ -1,4 +1,3 @@
-Future (rappeur)
 ✅Adele
 ✅Alex Warren
 ✅Arctic Monkeys
@@ -19,6 +18,7 @@ Future (rappeur)
 ✅Dua Lipa
 ✅Ed Sheeran
 ✅Eminem
+✅Future (rappeur)
 ✅Imagine Dragons
 ✅J Balvin
 ✅Justin Bieber
