@@ -1,6 +1,3 @@
-The Faces
-The Rolling Stones
-Sting (músico)
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -53,8 +50,11 @@ Sting (músico)
 ✅Rod Stewart
 ✅Sade
 ✅Stevie Wonder
+✅Sting (músico)
 ✅Supertramp
+✅The Faces
 ✅The Police
+✅The Rolling Stones
 ✅Tina Turner
 ✅Tracy Chapman
 ✅Traveling Wilburys

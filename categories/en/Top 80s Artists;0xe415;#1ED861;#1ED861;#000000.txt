@@ -1,5 +1,4 @@
 AC//DC
-George Michael
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -26,6 +25,7 @@ George Michael
 ✅Foreigner (band)
 ✅Garth Brooks
 ✅Genesis (band)
+✅George Michael
 ✅Guns N' Roses
 ✅Iron Maiden
 ✅Janet Jackson

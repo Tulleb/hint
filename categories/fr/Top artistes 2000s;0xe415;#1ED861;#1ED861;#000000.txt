@@ -1,5 +1,4 @@
 AC//DC
-Faces (groupe)
 ✅Adele
 ✅Alicia Keys
 ✅Amy Winehouse
@@ -23,6 +22,7 @@ Faces (groupe)
 ✅Enya
 ✅Eric Clapton
 ✅Evanescence
+✅Faces (groupe)
 ✅Fergie (chanteuse)
 ✅Foo Fighters
 ✅Gorillaz

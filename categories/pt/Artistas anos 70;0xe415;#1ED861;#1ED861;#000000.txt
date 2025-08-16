@@ -1,5 +1,4 @@
 AC//DC
-The Faces
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -52,6 +51,7 @@ The Faces
 ✅The Beach Boys
 ✅The Beatles
 ✅The Doors
+✅The Faces
 ✅The Jackson 5
 ✅The Police
 ✅The Rolling Stones

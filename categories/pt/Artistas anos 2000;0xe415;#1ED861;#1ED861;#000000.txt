@@ -1,5 +1,4 @@
 AC//DC
-The Faces
 ✅'N Sync
 ✅Adele
 ✅Alicia Keys
@@ -59,6 +58,7 @@ The Faces
 ✅Shania Twain
 ✅System of a Down
 ✅Taylor Swift
+✅The Faces
 ✅Tupac Shakur
 ✅U2
 ✅Usher

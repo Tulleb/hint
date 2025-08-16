@@ -1,6 +1,4 @@
 AC//DC
-The Cranberries
-The Faces
 ✅'N Sync
 ✅Ace of Base
 ✅Aerosmith
@@ -65,6 +63,8 @@ The Faces
 ✅Spice Girls
 ✅Sting (músico)
 ✅Take That
+✅The Cranberries
+✅The Faces
 ✅The Rolling Stones
 ✅TLC (grupo)
 ✅Tracy Chapman

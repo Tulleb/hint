@@ -1,7 +1,4 @@
 AC//DC
-The Cranberries
-George Michael
-Wham!
 ✅Ace of Base
 ✅Aerosmith
 ✅Alanis Morissette
@@ -32,6 +29,7 @@ Wham!
 ✅Fugees
 ✅Garth Brooks
 ✅Genesis (band)
+✅George Michael
 ✅Green Day
 ✅Guns N' Roses
 ✅Iron Maiden
@@ -68,6 +66,7 @@ Wham!
 ✅Spice Girls
 ✅Sting (musician)
 ✅Take That
+✅The Cranberries
 ✅The Rolling Stones
 ✅TLC (group)
 ✅Tracy Chapman
@@ -75,4 +74,5 @@ Wham!
 ✅U2
 ✅Usher (musician)
 ✅Van Halen
+✅Wham!
 ✅Whitney Houston

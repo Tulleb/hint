@@ -1,6 +1,4 @@
 AC//DC
-The Carpenters
-Genesis (groupe)
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -28,6 +26,7 @@ Genesis (groupe)
 ✅Fleetwood Mac
 ✅Foreigner
 ✅Frank Sinatra
+✅Genesis (groupe)
 ✅George Harrison
 ✅Ike and Tina Turner
 ✅Jimi Hendrix
@@ -51,6 +50,7 @@ Genesis (groupe)
 ✅Supertramp
 ✅The Beach Boys
 ✅The Beatles
+✅The Carpenters
 ✅The Doors
 ✅The Jackson Five
 ✅The Police

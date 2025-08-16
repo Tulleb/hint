@@ -1,5 +1,4 @@
 AC//DC
-Cher (artiste)
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -11,6 +10,7 @@ Cher (artiste)
 ✅Bon Jovi
 ✅Bruce Springsteen
 ✅Bryan Adams
+✅Cher (artiste)
 ✅David Bowie
 ✅Def Leppard
 ✅Depeche Mode

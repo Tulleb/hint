@@ -1,6 +1,4 @@
 AC\/DC
-Kiss (groupe américain)
-Prince (musicien)
 ✅ABBA
 ✅Adele
 ✅Aerosmith
@@ -71,6 +69,7 @@ Prince (musicien)
 ✅Kelly Clarkson
 ✅Kenny G
 ✅Kenny Rogers
+✅Kiss (groupe américain)
 ✅Lady Gaga
 ✅Led Zeppelin
 ✅Lil Wayne
@@ -94,6 +93,7 @@ Prince (musicien)
 ✅Pink (chanteuse)
 ✅Pink Floyd
 ✅Post Malone
+✅Prince (musicien)
 ✅Queen
 ✅R. Kelly
 ✅R.E.M.
