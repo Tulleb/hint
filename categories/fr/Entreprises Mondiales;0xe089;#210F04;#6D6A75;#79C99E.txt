@@ -1,41 +1,41 @@
-Nvidia
-Microsoft
-Apple
-Amazon
-Meta
-Alphabet (entreprise)
-Tesla
-JPMorgan
-Walmart
-Oracle
-Visa
-Netflix
-Mastercard
-Costco
-Johnson & Johnson
-Palantir Technologies
-Home Depot
-Procter & Gamble
-Bank of America
-Coca-Cola Company
-Advanced Micro Devices
-T-Mobile
-GE Aerospace
-Cisco
-Philip Morris International
-Salesforce
-Morgan Stanley
-IBM
-Goldman Sachs
-McDonald's
-American Express
-Walt Disney Company (The)
-AT&T
-PepsiCo
-Uber
 Caterpillar Inc.
-Verizon
-Boeing
-Texas Instruments
-Booking Holdings
-BlackRock
+Coca-Cola Company
+Meta
+Oracle
+Tesla
+Visa
+Walt Disney Company (The)
+✅Advanced Micro Devices
+✅Alphabet (entreprise)
+✅Amazon
+✅American Express
+✅Apple
+✅AT&T
+✅Bank of America
+✅BlackRock
+✅Boeing
+✅Booking Holdings
+✅Cisco Systems
+✅Costco
+✅GE Aerospace
+✅Goldman Sachs
+✅Home Depot
+✅IBM
+✅Johnson & Johnson
+✅JPMorgan Chase
+✅Mastercard
+✅McDonald's
+✅Microsoft
+✅Morgan Stanley
+✅Netflix
+✅Nvidia
+✅Palantir Technologies
+✅PepsiCo
+✅Philip Morris International
+✅Procter & Gamble
+✅Salesforce
+✅T-Mobile
+✅Texas Instruments
+✅Uber
+✅Verizon Communications
+✅Walmart
