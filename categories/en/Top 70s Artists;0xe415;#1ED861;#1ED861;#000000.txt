@@ -1,14 +1,4 @@
 AC\/DC
-Eagles (band)
-Foreigner (band)
-Genesis (band)
-The Jacksons 5
-Journey (band)
-Queen (band)
-Rod Stewart
-Faces (band)
-The Rolling Stones
-Santana (band)
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -28,17 +18,22 @@ Santana (band)
 ✅Deep Purple
 ✅Diana Ross
 ✅Dire Straits
+✅Eagles (band)
 ✅Earth, Wind & Fire
 ✅Elton John
 ✅Elvis Presley
 ✅Eric Clapton
+✅Faces (band)
 ✅Fleetwood Mac
+✅Foreigner (band)
 ✅Frank Sinatra
+✅Genesis (band)
 ✅George Harrison
 ✅Ike & Tina Turner
 ✅Jimi Hendrix
 ✅John Lennon
 ✅Johnny Hallyday
+✅Journey (band)
 ✅Led Zeppelin
 ✅Meat Loaf
 ✅Michael Jackson
@@ -47,12 +42,17 @@ Santana (band)
 ✅Paul McCartney
 ✅Paul Simon
 ✅Pink Floyd
+✅Queen (band)
 ✅Roberto Carlos
+✅Rod Stewart
+✅Santana (band)
 ✅Simon & Garfunkel
 ✅Stevie Wonder
 ✅Supertramp
 ✅The Beach Boys
 ✅The Beatles
 ✅The Doors
+✅The Jackson 5
 ✅The Police
+✅The Rolling Stones
 ✅Van Halen

@@ -1,19 +1,6 @@
 AC\/DC
 Carpenters (groupe)
-Cher (artiste)
-Crosby, Stills, Nash and Young
-Earth, Wind and Fire
 Genesis (artiste)
-Ike and Tina Turner
-The Jacksons Five
-Journey (artiste)
-Paul Simon (chanteur)
-Roberto Carlos (chanteur)
-Rod Stewart
-Faces (groupe)
-The Rolling Stones
-Santana (groupe)
-Simon and Garfunkel
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -25,34 +12,47 @@ Simon and Garfunkel
 ✅Bob Marley
 ✅Boston
 ✅Bruce Springsteen
+✅Cher (artiste)
 ✅Creedence Clearwater Revival
+✅Crosby, Stills, Nash and Young
 ✅David Bowie
 ✅Deep Purple
 ✅Diana Ross
 ✅Dire Straits
 ✅Eagles
+✅Earth, Wind and Fire
 ✅Elton John
 ✅Elvis Presley
 ✅Eric Clapton
+✅Faces (groupe)
 ✅Fleetwood Mac
 ✅Foreigner
 ✅Frank Sinatra
 ✅George Harrison
+✅Ike and Tina Turner
 ✅Jimi Hendrix
 ✅John Lennon
 ✅Johnny Hallyday
+✅Journal des artistes
 ✅Led Zeppelin
 ✅Meat Loaf
 ✅Michael Jackson
 ✅Neil Diamond
 ✅Neil Young
 ✅Paul McCartney
+✅Paul Simon (chanteur)
 ✅Pink Floyd
 ✅Queen
+✅Roberto Carlos (chanteur)
+✅Rod Stewart
+✅Santana (groupe)
+✅Simon and Garfunkel
 ✅Stevie Wonder
 ✅Supertramp
 ✅The Beach Boys
 ✅The Beatles
 ✅The Doors
+✅The Jackson Five
 ✅The Police
+✅The Rolling Stones
 ✅Van Halen

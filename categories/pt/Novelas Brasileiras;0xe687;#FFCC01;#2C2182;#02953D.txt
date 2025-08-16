@@ -1,21 +1,20 @@
 A Viagem (telenovela)
-Avenida Brasil (telenovela)
 Cabocla (telenovela)
 Gabriela (telenovela)
-O Bem-Amado (telenovela)
-Os Dez Mandamentos (telenovela)
-Xica da Silva (telenovela)
 ✅A Favorita
 ✅A Força do Querer
+✅Avenida Brasil (telenovela)
 ✅Dancin' Days
 ✅Irmãos Coragem
 ✅Laços de Família
 ✅Mulheres Apaixonadas
 ✅Mulheres de Areia
+✅O Bem-Amado (telenovela)
 ✅O Clone
 ✅O Cravo e a Rosa
 ✅O Rei do Gado
 ✅O Salvador da Pátria
+✅Os Dez Mandamentos (telenovela)
 ✅Pai Herói
 ✅Pantanal
 ✅Páginas da Vida
@@ -27,3 +26,4 @@ Xica da Silva (telenovela)
 ✅Tieta
 ✅Vale Tudo
 ✅Verdades Secretas
+✅Xica da Silva (telenovela)

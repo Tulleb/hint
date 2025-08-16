@@ -1,15 +1,5 @@
 AC\/DC
-Foreigner (band)
-Genesis (band)
 George Michael (musician)
-Wham!
-Journey (band)
-Queen (band)
-Rod Stewart
-Faces (band)
-The Rolling Stones
-Sade (singer)
-Sting (musician)
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -31,13 +21,17 @@ Sting (musician)
 ✅Elton John
 ✅Enya
 ✅Eric Clapton
+✅Faces (band)
 ✅Fleetwood Mac
+✅Foreigner (band)
 ✅Garth Brooks
+✅Genesis (band)
 ✅Guns N' Roses
 ✅Iron Maiden
 ✅Janet Jackson
 ✅John Lennon
 ✅Johnny Hallyday
+✅Journey (band)
 ✅Kylie Minogue
 ✅Madonna
 ✅Mannheim Steamroller
@@ -52,16 +46,22 @@ Sting (musician)
 ✅Phil Collins
 ✅Pink Floyd
 ✅Prince
+✅Queen (band)
 ✅R.E.M.
 ✅Renaud
 ✅Roberto Carlos
+✅Rod Stewart
+✅Sade (singer)
 ✅Stevie Wonder
+✅Sting (musician)
 ✅Supertramp
 ✅The Police
+✅The Rolling Stones
 ✅Tina Turner
 ✅Tracy Chapman
 ✅Traveling Wilburys
 ✅U2
 ✅Van Halen
+✅Wham!
 ✅Whitney Houston
 ✅Xuxa

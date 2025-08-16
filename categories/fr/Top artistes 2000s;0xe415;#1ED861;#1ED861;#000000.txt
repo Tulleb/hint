@@ -1,9 +1,4 @@
-Tupac Shakur
 AC\/DC
-Céline Dion
-Fergie (chanteuse)
-Pink (chanteuse)
-Rod Stewart
 Faces
 ✅Adele
 ✅Alicia Keys
@@ -20,6 +15,7 @@ Faces
 ✅Carrie Underwood
 ✅Christina Aguilera
 ✅Coldplay
+✅Céline Dion
 ✅Destiny's Child
 ✅Dido
 ✅Eminem
@@ -27,6 +23,7 @@ Faces
 ✅Enya
 ✅Eric Clapton
 ✅Evanescence
+✅Fergie (chanteuse)
 ✅Foo Fighters
 ✅Gorillaz
 ✅Green Day
@@ -53,12 +50,15 @@ Faces
 ✅Norah Jones
 ✅NSYNC
 ✅Oasis
+✅Pink (chanteuse)
 ✅Red Hot Chili Peppers
 ✅Rihanna
 ✅Robbie Williams
+✅Rod Stewart
 ✅Shakira
 ✅Shania Twain
 ✅System of a Down
 ✅Taylor Swift
+✅Tupac Shakur
 ✅U2
 ✅Usher

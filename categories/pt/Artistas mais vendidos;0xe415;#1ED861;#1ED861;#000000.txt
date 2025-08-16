@@ -1,10 +1,4 @@
 AC\/DC
-Céline Dion
-Chris Brown (cantor)
-Foreigner (banda)
-Santana (banda)
-Black Eyed Peas
-Carpenters
 ✅ABBA
 ✅Adele
 ✅Aerosmith
@@ -21,6 +15,7 @@ Carpenters
 ✅Bee Gees
 ✅Beyoncé
 ✅Billy Joel
+✅Black Eyed Peas
 ✅Bob Dylan
 ✅Bob Marley
 ✅Bob Seger
@@ -29,10 +24,13 @@ Carpenters
 ✅Bruce Springsteen
 ✅Bruno Mars
 ✅Bryan Adams
+✅Carpenters
 ✅Cher
 ✅Chicago
+✅Chris Brown (cantor)
 ✅Christina Aguilera
 ✅Coldplay
+✅Céline Dion
 ✅David Bowie
 ✅Def Leppard
 ✅Diana Ross
@@ -49,6 +47,7 @@ Carpenters
 ✅Eric Clapton
 ✅Fleetwood Mac
 ✅Flo Rida
+✅Foreigner (banda)
 ✅Frank Sinatra
 ✅Garth Brooks
 ✅Genesis
@@ -105,6 +104,7 @@ Carpenters
 ✅Robbie Williams
 ✅Roberto Carlos
 ✅Rod Stewart
+✅Santana (banda)
 ✅Shakira
 ✅Shania Twain
 ✅Simon & Garfunkel

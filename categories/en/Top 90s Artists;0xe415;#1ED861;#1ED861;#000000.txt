@@ -1,18 +1,7 @@
-Tupac Shakur
 AC\/DC
 Cranberries (band)
-Genesis (band)
 George Michael (musician)
 Wham! (band)
-Queen (band)
-Rod Stewart
-Faces (band)
-The Rolling Stones
-Sade (musician)
-Santana (band)
-Sting (musician)
-TLC (group)
-Usher (musician)
 ✅Ace of Base
 ✅Aerosmith
 ✅Alanis Morissette
@@ -38,9 +27,11 @@ Usher (musician)
 ✅Enrique Iglesias
 ✅Enya
 ✅Eric Clapton
+✅Faces (band)
 ✅Foo Fighters
 ✅Fugees
 ✅Garth Brooks
+✅Genesis (band)
 ✅Green Day
 ✅Guns N' Roses
 ✅Iron Maiden
@@ -64,15 +55,24 @@ Usher (musician)
 ✅Phil Collins
 ✅Pink Floyd
 ✅Prince
+✅Queen (band)
 ✅R.E.M.
 ✅Red Hot Chili Peppers
 ✅Robbie Williams
 ✅Roberto Carlos
+✅Rod Stewart
+✅Saki (musician)
+✅Santana (band)
 ✅Shakira
 ✅Shania Twain
 ✅Spice Girls
+✅Sting (musician)
 ✅Take That
+✅The Rolling Stones
+✅TLC (group)
 ✅Tracy Chapman
+✅Tupac Shakur
 ✅U2
+✅Usher (musician)
 ✅Van Halen
 ✅Whitney Houston

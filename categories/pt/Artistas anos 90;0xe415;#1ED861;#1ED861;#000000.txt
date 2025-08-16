@@ -1,17 +1,8 @@
-Tupac Shakur
 AC\/DC
-Céline Dion
 Cranberries (banda)
-Fugees (banda)
-George Michael
-Wham!
-'N SYNC
-Rod Stewart
 Faces
-The Rolling Stones
-Santana (banda)
-Sting (músico)
-TLC (grupo)
+Fugees (banda)
+✅'N Sync
 ✅Ace of Base
 ✅Aerosmith
 ✅Alanis Morissette
@@ -26,6 +17,7 @@ TLC (grupo)
 ✅Bryan Adams
 ✅Cher
 ✅Christina Aguilera
+✅Céline Dion
 ✅Def Leppard
 ✅Depeche Mode
 ✅Destiny's Child
@@ -39,6 +31,7 @@ TLC (grupo)
 ✅Foo Fighters
 ✅Garth Brooks
 ✅Genesis
+✅George Michael
 ✅Green Day
 ✅Guns N' Roses
 ✅Iron Maiden
@@ -65,13 +58,20 @@ TLC (grupo)
 ✅Red Hot Chili Peppers
 ✅Robbie Williams
 ✅Roberto Carlos
+✅Rod Stewart
 ✅Sade
+✅Santana (banda)
 ✅Shakira
 ✅Shania Twain
 ✅Spice Girls
+✅Sting (músico)
 ✅Take That
+✅The Rolling Stones
+✅TLC (grupo)
 ✅Tracy Chapman
+✅Tupac Shakur
 ✅U2
 ✅Usher
 ✅Van Halen
+✅Wham!
 ✅Whitney Houston

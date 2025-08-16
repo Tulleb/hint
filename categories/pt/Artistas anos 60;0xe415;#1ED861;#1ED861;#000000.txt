@@ -1,6 +1,3 @@
-The Jacksons 5
-The Rolling Stones
-Santana (banda)
 ✅Aretha Franklin
 ✅Barbra Streisand
 ✅Bee Gees
@@ -22,10 +19,13 @@ Santana (banda)
 ✅Neil Diamond
 ✅Pink Floyd
 ✅Roberto Carlos
+✅Santana (banda)
 ✅Simon & Garfunkel
 ✅Stevie Wonder
 ✅The Beach Boys
 ✅The Beatles
 ✅The Doors
+✅The Jackson 5
+✅The Rolling Stones
 ✅The Supremes
 ✅The Yardbirds

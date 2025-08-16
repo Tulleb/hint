@@ -1,13 +1,4 @@
 AC\/DC
-Drake (musician)
-Eagles (band)
-Foreigner (band)
-Genesis (band)
-Journey (band)
-Queen (band)
-Santana (band)
-Black Eyed Peas
-Usher (musician)
 ✅ABBA
 ✅Adele
 ✅Aerosmith
@@ -24,6 +15,7 @@ Usher (musician)
 ✅Bee Gees
 ✅Beyoncé
 ✅Billy Joel
+✅Black Eyed Peas
 ✅Bob Dylan
 ✅Bob Marley
 ✅Bob Seger
@@ -43,6 +35,8 @@ Usher (musician)
 ✅Diana Ross
 ✅Dire Straits
 ✅Donna Summer
+✅Drake (musician)
+✅Eagles (band)
 ✅Earth, Wind & Fire
 ✅Ed Sheeran
 ✅Elton John
@@ -52,8 +46,10 @@ Usher (musician)
 ✅Eric Clapton
 ✅Fleetwood Mac
 ✅Flo Rida
+✅Foreigner (band)
 ✅Frank Sinatra
 ✅Garth Brooks
+✅Genesis (band)
 ✅George Michael
 ✅George Strait
 ✅Gloria Estefan
@@ -65,6 +61,7 @@ Usher (musician)
 ✅Jay-Z
 ✅Johnny Cash
 ✅Johnny Hallyday
+✅Journey (band)
 ✅Julio Iglesias
 ✅Justin Bieber
 ✅Justin Timberlake
@@ -98,6 +95,7 @@ Usher (musician)
 ✅Pink Floyd
 ✅Post Malone
 ✅Prince
+✅Queen (band)
 ✅R. Kelly
 ✅R.E.M.
 ✅Red Hot Chili Peppers
@@ -105,6 +103,7 @@ Usher (musician)
 ✅Robbie Williams
 ✅Roberto Carlos
 ✅Rod Stewart
+✅Santana (band)
 ✅Shakira
 ✅Shania Twain
 ✅Simon & Garfunkel
@@ -123,5 +122,6 @@ Usher (musician)
 ✅Tom Petty
 ✅Tupac Shakur
 ✅U2
+✅Usher (musician)
 ✅Van Halen
 ✅Whitney Houston

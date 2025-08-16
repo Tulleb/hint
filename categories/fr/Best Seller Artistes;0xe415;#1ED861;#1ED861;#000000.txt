@@ -1,19 +1,6 @@
 AC\/DC
-Céline Dion
-Cher (artiste)
-Drake (rappeur)
-Earth, Wind and Fire
-Genesis (groupe)
-James Taylor (musicien)
-Journey (groupe)
 Kiss (groupe)
-Nirvana (groupe)
-Pink (chanteuse)
 Prince (chanteur)
-Roberto Carlos (chanteur)
-Santana (groupe)
-Simon and Garfunkel
-Black Eyed Peas
 ✅ABBA
 ✅Adele
 ✅Aerosmith
@@ -29,6 +16,7 @@ Black Eyed Peas
 ✅Bee Gees
 ✅Beyoncé
 ✅Billy Joel
+✅Black Eyed Peas
 ✅Bob Dylan
 ✅Bob Marley
 ✅Bob Seger
@@ -37,16 +25,20 @@ Black Eyed Peas
 ✅Bruce Springsteen
 ✅Bruno Mars
 ✅Bryan Adams
+✅Cher (artiste)
 ✅Chicago
 ✅Chris Brown
 ✅Christina Aguilera
 ✅Coldplay
+✅Céline Dion
 ✅David Bowie
 ✅Def Leppard
 ✅Diana Ross
 ✅Dire Straits
 ✅Donna Summer
+✅Drake (rappeur)
 ✅Eagles
+✅Earth, Wind and Fire
 ✅Ed Sheeran
 ✅Elton John
 ✅Elvis Presley
@@ -58,16 +50,19 @@ Black Eyed Peas
 ✅Foreigner
 ✅Frank Sinatra
 ✅Garth Brooks
+✅Genesis (groupe)
 ✅George Michael
 ✅George Strait
 ✅Gloria Estefan
 ✅Green Day
 ✅Guns N' Roses
 ✅Imagine Dragons
+✅James Taylor (musicien)
 ✅Janet Jackson
 ✅Jay-Z
 ✅Johnny Cash
 ✅Johnny Hallyday
+✅Journey (groupe)
 ✅Julio Iglesias
 ✅Justin Bieber
 ✅Justin Timberlake
@@ -91,10 +86,12 @@ Black Eyed Peas
 ✅Michael Jackson
 ✅Neil Diamond
 ✅Nicki Minaj
+✅Nirvana (groupe)
 ✅Oasis
 ✅Olivia Newton-John
 ✅Paul McCartney
 ✅Phil Collins
+✅Pink (chanteuse)
 ✅Pink Floyd
 ✅Post Malone
 ✅Queen
@@ -103,9 +100,12 @@ Black Eyed Peas
 ✅Red Hot Chili Peppers
 ✅Rihanna
 ✅Robbie Williams
+✅Roberto Carlos (chanteur)
 ✅Rod Stewart
+✅Santana (groupe)
 ✅Shakira
 ✅Shania Twain
+✅Simon and Garfunkel
 ✅Stevie Wonder
 ✅Taylor Swift
 ✅The Beach Boys

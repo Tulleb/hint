@@ -1,9 +1,6 @@
-Tupac Shakur
 AC\/DC
-Céline Dion
-'N SYNC
-Rod Stewart
 Faces
+✅'N Sync
 ✅Adele
 ✅Alicia Keys
 ✅Amy Winehouse
@@ -19,6 +16,7 @@ Faces
 ✅Carrie Underwood
 ✅Christina Aguilera
 ✅Coldplay
+✅Céline Dion
 ✅Destiny's Child
 ✅Dido
 ✅Eminem
@@ -56,9 +54,11 @@ Faces
 ✅Red Hot Chili Peppers
 ✅Rihanna
 ✅Robbie Williams
+✅Rod Stewart
 ✅Shakira
 ✅Shania Twain
 ✅System of a Down
 ✅Taylor Swift
+✅Tupac Shakur
 ✅U2
 ✅Usher

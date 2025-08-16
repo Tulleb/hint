@@ -1,10 +1,5 @@
 AC\/DC
-Foreigner (banda)
-The Jacksons 5
-Rod Stewart
 Faces
-The Rolling Stones
-Santana (banda)
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -30,6 +25,7 @@ Santana (banda)
 ✅Elvis Presley
 ✅Eric Clapton
 ✅Fleetwood Mac
+✅Foreigner (banda)
 ✅Frank Sinatra
 ✅Genesis
 ✅George Harrison
@@ -48,11 +44,15 @@ Santana (banda)
 ✅Pink Floyd
 ✅Queen
 ✅Roberto Carlos
+✅Rod Stewart
+✅Santana (banda)
 ✅Simon & Garfunkel
 ✅Stevie Wonder
 ✅Supertramp
 ✅The Beach Boys
 ✅The Beatles
 ✅The Doors
+✅The Jackson 5
 ✅The Police
+✅The Rolling Stones
 ✅Van Halen

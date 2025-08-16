@@ -1,9 +1,4 @@
-Tupac Shakur
 AC\/DC
-Fergie (singer)
-Rod Stewart
-Faces (band)
-Usher (musician)
 ✅Adele
 ✅Alicia Keys
 ✅Amy Winehouse
@@ -27,6 +22,8 @@ Usher (musician)
 ✅Enya
 ✅Eric Clapton
 ✅Evanescence
+✅Faces (band)
+✅Fergie (singer)
 ✅Foo Fighters
 ✅Gorillaz
 ✅Green Day
@@ -57,8 +54,11 @@ Usher (musician)
 ✅Red Hot Chili Peppers
 ✅Rihanna
 ✅Robbie Williams
+✅Rod Stewart
 ✅Shakira
 ✅Shania Twain
 ✅System of a Down
 ✅Taylor Swift
+✅Tupac Shakur
 ✅U2
+✅Usher (musician)

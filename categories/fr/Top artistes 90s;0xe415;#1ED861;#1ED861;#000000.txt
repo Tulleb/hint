@@ -1,20 +1,6 @@
-Tupac Shakur
 AC\/DC
-Céline Dion
 Cher (chanteuse)
 Cranberries (groupe)
-Genesis (groupe)
-George Michael
-Wham!
-Nirvana (groupe)
-Prince (musicien)
-Roberto Carlos (chanteur)
-Rod Stewart
-Faces (groupe)
-The Rolling Stones
-Sade (groupe)
-Santana (groupe)
-TLC (groupe)
 ✅Ace of Base
 ✅Aerosmith
 ✅Alanis Morissette
@@ -28,6 +14,7 @@ TLC (groupe)
 ✅Bruce Springsteen
 ✅Bryan Adams
 ✅Christina Aguilera
+✅Céline Dion
 ✅Def Leppard
 ✅Depeche Mode
 ✅Destiny's Child
@@ -38,9 +25,12 @@ TLC (groupe)
 ✅Enrique Iglesias
 ✅Enya
 ✅Eric Clapton
+✅Faces (groupe)
 ✅Foo Fighters
 ✅Fugees
 ✅Garth Brooks
+✅Genesis (groupe)
+✅George Michael
 ✅Green Day
 ✅Guns N' Roses
 ✅Iron Maiden
@@ -55,6 +45,7 @@ TLC (groupe)
 ✅Metallica
 ✅Michael Jackson
 ✅Neil Young
+✅Nirvana (groupe)
 ✅No Doubt
 ✅NSYNC
 ✅Oasis
@@ -62,17 +53,26 @@ TLC (groupe)
 ✅Pearl Jam
 ✅Phil Collins
 ✅Pink Floyd
+✅Prince (musicien)
 ✅Queen
 ✅R.E.M.
 ✅Red Hot Chili Peppers
 ✅Robbie Williams
+✅Roberto Carlos (chanteur)
+✅Rod Stewart
+✅Sade (groupe)
+✅Santana (groupe)
 ✅Shakira
 ✅Shania Twain
 ✅Spice Girls
 ✅Sting
 ✅Take That
+✅The Rolling Stones
+✅TLC (groupe)
 ✅Tracy Chapman
+✅Tupac Shakur
 ✅U2
 ✅Usher
 ✅Van Halen
+✅Wham!
 ✅Whitney Houston

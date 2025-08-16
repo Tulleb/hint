@@ -1,18 +1,5 @@
 AC\/DC
 Cher (chanteuse)
-Earth, Wind and Fire
-Genesis (groupe)
-George Michael
-Wham!
-Journey (groupe)
-Nirvana (groupe)
-Paul Simon (chanteur)
-Prince (musicien)
-Roberto Carlos (chanteur)
-Rod Stewart
-Faces (groupe)
-The Rolling Stones
-Sade (groupe)
 ✅ABBA
 ✅Aerosmith
 ✅Aretha Franklin
@@ -29,17 +16,22 @@ Sade (groupe)
 ✅Depeche Mode
 ✅Diana Ross
 ✅Dire Straits
+✅Earth, Wind and Fire
 ✅Elton John
 ✅Enya
 ✅Eric Clapton
+✅Faces (groupe)
 ✅Fleetwood Mac
 ✅Foreigner
 ✅Garth Brooks
+✅Genesis (groupe)
+✅George Michael
 ✅Guns N' Roses
 ✅Iron Maiden
 ✅Janet Jackson
 ✅John Lennon
 ✅Johnny Hallyday
+✅Journey (groupe)
 ✅Kylie Minogue
 ✅Madonna
 ✅Mannheim Steamroller
@@ -47,21 +39,29 @@ Sade (groupe)
 ✅Michael Jackson
 ✅Neil Diamond
 ✅Neil Young
+✅Nirvana (groupe)
 ✅Ozzy Osbourne
 ✅Paul McCartney
+✅Paul Simon (chanteur)
 ✅Phil Collins
 ✅Pink Floyd
+✅Prince (musicien)
 ✅Queen
 ✅R.E.M.
 ✅Renaud
+✅Roberto Carlos (chanteur)
+✅Rod Stewart
+✅Sade (groupe)
 ✅Stevie Wonder
 ✅Sting
 ✅Supertramp
 ✅The Police
+✅The Rolling Stones
 ✅Tina Turner
 ✅Tracy Chapman
 ✅Traveling Wilburys
 ✅U2
 ✅Van Halen
+✅Wham!
 ✅Whitney Houston
 ✅Xuxa

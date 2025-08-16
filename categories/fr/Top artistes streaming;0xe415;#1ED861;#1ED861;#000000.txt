@@ -1,7 +1,4 @@
-Drake (rappeur)
 Future (groupe)
-Pitbull (rappeur)
-Sia (chanteuse)
 ✅Adele
 ✅Alex Warren
 ✅Arctic Monkeys
@@ -18,6 +15,7 @@ Sia (chanteuse)
 ✅Daddy Yankee
 ✅David Guetta
 ✅Doja Cat
+✅Drake (rappeur)
 ✅Dua Lipa
 ✅Ed Sheeran
 ✅Eminem
@@ -36,11 +34,13 @@ Sia (chanteuse)
 ✅Michael Jackson
 ✅Miley Cyrus
 ✅OneRepublic
+✅Pitbull (rappeur)
 ✅Post Malone
 ✅Rihanna
 ✅Sabrina Carpenter
 ✅Sam Smith
 ✅Shakira
+✅Sia (chanteuse)
 ✅Sombr
 ✅SZA
 ✅Tate McRae

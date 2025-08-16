@@ -1,8 +1,4 @@
 AC\/DC
-Foreigner (banda)
-George Michael
-Wham!
-Rod Stewart
 Faces
 Rolling Stones
 Sting
@@ -28,8 +24,10 @@ Sting
 ✅Enya
 ✅Eric Clapton
 ✅Fleetwood Mac
+✅Foreigner (banda)
 ✅Garth Brooks
 ✅Genesis
+✅George Michael
 ✅Guns N' Roses
 ✅Iron Maiden
 ✅Janet Jackson
@@ -53,6 +51,7 @@ Sting
 ✅R.E.M.
 ✅Renaud
 ✅Roberto Carlos
+✅Rod Stewart
 ✅Sade
 ✅Stevie Wonder
 ✅Supertramp
@@ -62,5 +61,6 @@ Sting
 ✅Traveling Wilburys
 ✅U2
 ✅Van Halen
+✅Wham!
 ✅Whitney Houston
 ✅Xuxa
