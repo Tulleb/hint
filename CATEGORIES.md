@@ -1,15 +1,15 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-17 16:59:23 UTC
+**Generated on:** 2025-08-17 17:30:37 UTC
 **Data folder:** /home/runner/work/indix/indix/main/categories
 
 ## Summary
 
 - **Languages processed:** 3
 - **Total files processed:** 42
-- **Total entries processed:** 3059
+- **Total entries processed:** 3058
 - **Successful fetches:** 3058
-- **Failed fetches:** 1
+- **Failed fetches:** 0
 - **Success rate:** 100.0%
 
 ## Detailed Results
@@ -179,12 +179,12 @@
 </details>
 
 <details>
-<summary>PT - 99.9% ❌ (1 failed)</summary>
+<summary>PT - 100.0% ✅</summary>
 
 - **Files processed:** 14
-- **Total entries:** 1053
+- **Total entries:** 1052
 - **Successful:** 1052
-- **Failed:** 1
+- **Failed:** 0
 
 ### PT Files
 
@@ -244,9 +244,7 @@
 </details>
 
 <details>
-<summary>Empresas Comerciais (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 97.4% ❌ (1 failed)</summary>
-
-- 'The Home Depot': Wikipedia article for 'The_Home_Depot' in language 'pt' is too short (481 characters). The article may be a stub or redirect page. Try searching for a more specific topic.
+<summary>Empresas Comerciais (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 100.0% ✅</summary>
 
 </details>
 
