@@ -1,11 +1,6 @@
-AMD
-Alphabet Inc.
-Amazon (company)
-The Coca-Cola Company
-Meta Platforms
-T-Mobile US
-Tesla, Inc.
-Visa Inc.
+✅Alphabet Inc.
+✅Amazon (company)
+✅AMD
 ✅American Express
 ✅Apple
 ✅AT&T
@@ -24,6 +19,7 @@ Visa Inc.
 ✅JPMorgan Chase
 ✅Mastercard
 ✅McDonald's
+✅Meta Platforms
 ✅Microsoft
 ✅Morgan Stanley
 ✅Netflix
@@ -34,8 +30,12 @@ Visa Inc.
 ✅Philip Morris International
 ✅Procter & Gamble
 ✅Salesforce
+✅T-Mobile US
+✅Tesla, Inc.
 ✅Texas Instruments
+✅The Coca-Cola Company
 ✅The Walt Disney Company Iberia
 ✅Uber
 ✅Verizon
+✅Visa Inc.
 ✅Walmart

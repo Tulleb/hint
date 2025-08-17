@@ -1,12 +1,6 @@
-Alphabet Inc.
-Cisco Systems
-The Coca-Cola Company
 The Home Depot
-Meta Platforms
-Oracle Corporation
-Tesla, Inc.
-The Walt Disney Company
 ✅Advanced Micro Devices
+✅Alphabet Inc.
 ✅Amazon
 ✅American Express
 ✅Apple
@@ -16,6 +10,7 @@ The Walt Disney Company
 ✅Boeing
 ✅Booking Holdings
 ✅Caterpillar Inc.
+✅Cisco Systems
 ✅Costco
 ✅GE Aerospace
 ✅Goldman Sachs
@@ -24,15 +19,20 @@ The Walt Disney Company
 ✅JPMorgan Chase
 ✅Mastercard
 ✅McDonald's
+✅Meta Platforms
 ✅Microsoft
 ✅Netflix
 ✅Nvidia
+✅Oracle Corporation
 ✅Palantir Technologies
 ✅PepsiCo
 ✅Philip Morris International
 ✅Procter & Gamble
 ✅Salesforce
+✅Tesla, Inc.
 ✅Texas Instruments
+✅The Coca-Cola Company
+✅The Walt Disney Company
 ✅Uber
 ✅Verizon Communications
 ✅Visa

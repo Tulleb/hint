@@ -1,10 +1,3 @@
-Caterpillar
-The Coca-Cola Company
-Meta (entreprise)
-Oracle (entreprise)
-Tesla (automobile)
-Visa (entreprise)
-The Walt Disney Company
 ✅Advanced Micro Devices
 ✅Alphabet (entreprise)
 ✅Amazon
@@ -15,6 +8,7 @@ The Walt Disney Company
 ✅BlackRock
 ✅Boeing
 ✅Booking Holdings
+✅Caterpillar
 ✅Cisco Systems
 ✅Costco
 ✅GE Aerospace
@@ -25,17 +19,23 @@ The Walt Disney Company
 ✅JPMorgan Chase
 ✅Mastercard
 ✅McDonald's
+✅Meta (entreprise)
 ✅Microsoft
 ✅Morgan Stanley
 ✅Netflix
 ✅Nvidia
+✅Oracle (entreprise)
 ✅Palantir Technologies
 ✅PepsiCo
 ✅Philip Morris International
 ✅Procter & Gamble
 ✅Salesforce
 ✅T-Mobile
+✅Tesla (automobile)
 ✅Texas Instruments
+✅The Coca-Cola Company
+✅The Walt Disney Company
 ✅Uber
 ✅Verizon Communications
+✅Visa (entreprise)
 ✅Walmart
