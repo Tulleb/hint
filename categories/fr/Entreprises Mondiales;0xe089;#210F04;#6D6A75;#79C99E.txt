@@ -1,10 +1,10 @@
-Caterpillar Inc.
-Coca-Cola Company
-Meta
-Oracle
-Tesla
-Visa
-Walt Disney Company (The)
+Caterpillar
+The Coca-Cola Company
+Meta (entreprise)
+Oracle (entreprise)
+Tesla (automobile)
+Visa (entreprise)
+The Walt Disney Company
 ✅Advanced Micro Devices
 ✅Alphabet (entreprise)
 ✅Amazon

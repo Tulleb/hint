@@ -1,13 +1,11 @@
-Alphabet (entreprise)
-Cisco
-Coca-Cola Company
-Home Depot
-Meta
-Morgan Stanley
-Oracle
-T-Mobile
-Tesla
-Walt Disney Company (The)
+Alphabet Inc.
+Cisco Systems
+The Coca-Cola Company
+The Home Depot
+Meta Platforms
+Oracle Corporation
+Tesla, Inc.
+The Walt Disney Company
 ✅Advanced Micro Devices
 ✅Amazon
 ✅American Express
