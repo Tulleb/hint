@@ -1,2 +1,2 @@
-# indix
-Public Indix App Repository
+# Cortex
+Public Cortex App Repository
