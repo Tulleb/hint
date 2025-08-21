@@ -1,2 +1,2 @@
-# Cortex
-Public Cortex App Repository
+# Hint!
+Public Hint! App Repository

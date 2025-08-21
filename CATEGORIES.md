@@ -1,7 +1,7 @@
 # Categories Processing Report
 
 **Generated on:** 2025-08-18 09:03:51 UTC
-**Data folder:** /home/runner/work/cortex/cortex/main/categories
+**Data folder:** /home/runner/work/hint/hint/main/categories
 
 ## Summary
 

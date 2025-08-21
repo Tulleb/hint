@@ -15,8 +15,8 @@ jobs:
       - name: Checkout Backend repository
         uses: actions/checkout@v3
         with:
-          repository: tulleb/cortex-backend
-          token: ${{ secrets.CORTEX_CI_TOKEN }}
+          repository: tulleb/hint-backend
+          token: ${{ secrets.HINT_CI_TOKEN }}
           ref: main
           path: backend
 
