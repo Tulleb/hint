@@ -1,14 +1,14 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-21 09:04:29 UTC
+**Generated on:** 2025-08-26 21:14:42 UTC
 **Data folder:** /home/runner/work/hint/hint/main/categories
 
 ## Summary
 
 - **Languages processed:** 3
-- **Total files processed:** 42
-- **Total entries processed:** 3058
-- **Successful fetches:** 3058
+- **Total files processed:** 45
+- **Total entries processed:** 3193
+- **Successful fetches:** 3193
 - **Failed fetches:** 0
 - **Success rate:** 100.0%
 
@@ -17,9 +17,9 @@
 <details>
 <summary>EN - 100.0% ✅</summary>
 
-- **Files processed:** 11
-- **Total entries:** 723
-- **Successful:** 723
+- **Files processed:** 12
+- **Total entries:** 768
+- **Successful:** 768
 - **Failed:** 0
 
 ### EN Files
@@ -75,6 +75,11 @@
 </details>
 
 <details>
+<summary>Years Since 1980 (0xe122) [Foreground: #E6584F] [Icon: #E6584F] [Background: #F8F7F7]: 100.0% ✅</summary>
+
+</details>
+
+<details>
 <summary>Celebrities (0xe5f9) [Foreground: #210F04] [Icon: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
 
 </details>
@@ -84,9 +89,9 @@
 <details>
 <summary>FR - 100.0% ✅</summary>
 
-- **Files processed:** 17
-- **Total entries:** 1283
-- **Successful:** 1283
+- **Files processed:** 18
+- **Total entries:** 1328
+- **Successful:** 1328
 - **Failed:** 0
 
 ### FR Files
@@ -167,6 +172,11 @@
 </details>
 
 <details>
+<summary>Années depuis 1980 (0xe122) [Foreground: #E6584F] [Icon: #E6584F] [Background: #F8F7F7]: 100.0% ✅</summary>
+
+</details>
+
+<details>
 <summary>Pays +10M habitants (0xe28e) [Foreground: #210F04] [Icon: #121716] [Background: #B1C1C0]: 100.0% ✅</summary>
 
 </details>
@@ -181,9 +191,9 @@
 <details>
 <summary>PT - 100.0% ✅</summary>
 
-- **Files processed:** 14
-- **Total entries:** 1052
-- **Successful:** 1052
+- **Files processed:** 15
+- **Total entries:** 1097
+- **Successful:** 1097
 - **Failed:** 0
 
 ### PT Files
@@ -240,6 +250,11 @@
 
 <details>
 <summary>Artistas anos 2000 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Anos desde 1980 (0xe122) [Foreground: #E6584F] [Icon: #E6584F] [Background: #F8F7F7]: 100.0% ✅</summary>
 
 </details>
 
