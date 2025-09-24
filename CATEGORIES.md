@@ -1,16 +1,16 @@
 # Categories Processing Report
 
-**Generated on:** 2025-08-30 19:29:08 UTC
+**Generated on:** 2025-09-24 15:24:20 UTC
 **Data folder:** /home/runner/work/hint/hint/main/categories
 
 ## Summary
 
 - **Languages processed:** 3
-- **Total files processed:** 46
-- **Total entries processed:** 3231
-- **Successful fetches:** 3226
-- **Failed fetches:** 5
-- **Success rate:** 99.8%
+- **Total files processed:** 49
+- **Total entries processed:** 3417
+- **Successful fetches:** 3407
+- **Failed fetches:** 10
+- **Success rate:** 99.7%
 
 ## Detailed Results
 
@@ -102,12 +102,12 @@
 </details>
 
 <details>
-<summary>FR - 99.6% ❌ (5 failed)</summary>
+<summary>FR - 99.5% ❌ (6 failed)</summary>
 
 - **Files processed:** 19
-- **Total entries:** 1366
-- **Successful:** 1361
-- **Failed:** 5
+- **Total entries:** 1287
+- **Successful:** 1281
+- **Failed:** 6
 
 ### FR Files
 
@@ -139,11 +139,11 @@
 <details>
 <summary>Séries Années 90 (0xe40d) [Foreground: #210F04] [Icon: #7A6C5D] [Background: #9DCBBA]: 86.8% ❌ (5 failed)</summary>
 
-- 'K2000': Wikipedia page for 'K2000' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
-- 'Hooker': Wikipedia page for 'Hooker' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
 - 'Arabesque': Wikipedia page for 'Arabesque' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
-- 'Sherif fais moi peur': Wikipedia page for 'Sherif,_fais-moi_peur' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 - 'Dawson': Wikipedia page for 'Dawson' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'Hooker': Wikipedia page for 'Hooker' in language 'fr' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'K2000': Wikipedia page for 'K2000' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Sherif fais moi peur': Wikipedia page for 'Sherif,_fais-moi_peur' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 
 </details>
 
@@ -158,7 +158,9 @@
 </details>
 
 <details>
-<summary>Pays +100M habitants (0xe28e) [Foreground: #210F04] [Icon: #281301] [Background: #E06D06]: 100.0% ✅</summary>
+<summary>Pays +100M habitants (0xe28e) [Foreground: #210F04] [Icon: #281301] [Background: #E06D06]: 93.3% ❌ (1 failed)</summary>
+
+- 'Etats-Unis': Wikipedia page for 'Etats-Unis' in language 'fr' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 
 </details>
 
@@ -215,12 +217,12 @@
 </details>
 
 <details>
-<summary>EN - 100.0% ✅</summary>
+<summary>EN - 99.6% ❌ (4 failed)</summary>
 
-- **Files processed:** 12
-- **Total entries:** 768
-- **Successful:** 768
-- **Failed:** 0
+- **Files processed:** 15
+- **Total entries:** 1033
+- **Successful:** 1029
+- **Failed:** 4
 
 ### EN Files
 
@@ -231,6 +233,11 @@
 
 <details>
 <summary>Top 80s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Countries +10M population (0xe28e) [Foreground: #210F04] [Icon: #121716] [Background: #B1C1C0]: 100.0% ✅</summary>
 
 </details>
 
@@ -251,6 +258,21 @@
 
 <details>
 <summary>Disney (0xf04cb) [Foreground: #FFFFFF] [Icon: #FFFFFF] [Background: #113E8D]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Countries +100M population (0xe28e) [Foreground: #210F04] [Icon: #281301] [Background: #E06D06]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Countries +1M population (0xe28e) [Foreground: #210F04] [Icon: #292100] [Background: #FFCE0A]: 97.5% ❌ (4 failed)</summary>
+
+- 'Hong Kong (China)': Wikipedia page for 'Hong_Kong_(China)' in language 'en' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Georgia': Wikipedia page for 'Georgia' in language 'en' is a disambiguation page. Disambiguation pages are not valid articles.
+- 'Puerto Rico (US)': Wikipedia page for 'Puerto_Rico,_USA' in language 'en' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
+- 'Gambia': Wikipedia page for 'Gambia' in language 'en' has no content. This may be the article of the day, a redirect page, disambiguation page, or a page with no extractable content.
 
 </details>
 
