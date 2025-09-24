@@ -1,94 +1,15 @@
-✅Afghanistan
-✅Afrique du Sud
-✅Algérie
-✅Allemagne
-✅Angola
-✅Arabie saoudite
-✅Argentine
-✅Australie
-✅Azerbaïdjan
-✅Bangladesh
-✅Belgique
-✅Birmanie
-✅Bolivie
-✅Brésil
-✅Burkina Faso
-✅Burundi
-✅Bénin
-✅Cambodge
-✅Cameroun
-✅Canada
-✅Chili
-✅Chine
-✅Colombie
-✅Corée du Nord
-✅Corée du Sud
-✅Cuba
-✅Côte d'Ivoire
-✅Espagne
-✅France Gall
-✅Ghana
-✅Grèce
-✅Guatemala
-✅Guinée
-✅Haïti
-✅Honduras
-✅Inde
-✅Indonésie
-✅Irak
-✅Iran
-✅Italie
-✅Japon
-✅Jordanie
-✅Kazakhstan
-✅Kenya
-✅Madagascar
-✅Malaisie
-✅Malawi
-✅Mali
-✅Maroc
-✅Mexique
-✅Mozambique
-✅Niger
-✅Nigeria
-✅Népal
-✅Ouganda
-✅Ouzbékistan
-✅Pakistan
-✅Papouasie-Nouvelle-Guinée
-✅Pays-Bas
-✅Philippines
-✅Pologne
-✅Portugal
-✅Pérou
-✅Roumanie
-✅Royaume-Uni
-✅Rwanda
-✅République dominicaine
-✅République démocratique du Congo
-✅Somalie
-✅Soudan
-✅Soudan du Sud
-✅Sri Lanka
-✅Suède
-✅Syrie
-✅Sénégal
-✅Tadjikistan
-✅Tanzanie
-✅Taïwan
-✅Tchad
-✅Tchéquie
-✅Thaïlande
-✅Tunisie
-✅Turquie
-✅Ukraine
-✅Venezuela
-✅Vietnam
-✅Yémen
-✅Zambie
-✅Zimbabwe
-✅Égypte
-✅Émirats arabes unis
-✅Équateur (pays)
-✅États-Unis
-✅Éthiopie
+Bangladesh
+Brésil
+Chine
+Égypte
+Etats-Unis
+Éthiopie
+Philippines
+Indonésie
+Japon
+Mexique
+Nigéria
+Pakistan
+République démocratique du Congo
+Inde
+Vietnam
