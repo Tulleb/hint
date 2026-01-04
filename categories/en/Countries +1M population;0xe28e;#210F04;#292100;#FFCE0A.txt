@@ -1,4 +1,3 @@
-Gambia
 Georgia
 Hong Kong (China)
 Puerto Rico (US)
@@ -138,6 +137,7 @@ Puerto Rico (US)
 ✅Tajikistan
 ✅Tanzania
 ✅Thailand
+✅The Gambia
 ✅Timor-Leste
 ✅Togo
 ✅Trinidad and Tobago
