@@ -1,62 +1,37 @@
-Ain (département)
-Aisne (département)
-Allier (département)
-Ardennes (département)
-Ardèche (département)
-Ariège (département)
-Aube (département)
-Aude (département)
-Aveyron (département)
-Calvados (département)
-Cantal (département)
-Charente (département)
-Cher (département)
-Corrèze (département)
-Creuse (département)
-Dordogne (département)
-Doubs (département)
-Drôme (département)
-Essonne (département)
-Eure (département)
-Gers (département)
-Gironde (département)
-Hérault (département)
-Indre (département)
-Isère (département)
-Jura (département)
-Landes (département)
-Loiret (département)
-Lot (département)
-Lozère (département)
-Manche (département)
-Marne (département)
-Mayenne (département)
-Meuse (département)
-Moselle (département)
-Nièvre (département)
-Oise (département)
-Orne (département)
-Sarthe (département)
-Somme (département)
-Tarn (département)
-Var (département)
-Vaucluse (département)
-Vendée (département)
-Vienne (département)
-Vosges (département)
-Yonne (département)
+✅Ain (département)
+✅Aisne (département)
+✅Allier (département)
 ✅Alpes-de-Haute-Provence
 ✅Alpes-Maritimes
+✅Ardennes (département)
+✅Ardèche (département)
+✅Ariège (département)
+✅Aube (département)
+✅Aude (département)
+✅Aveyron (département)
 ✅Bas-Rhin
 ✅Bouches-du-Rhône
+✅Calvados (département)
+✅Cantal (département)
+✅Charente (département)
 ✅Charente-Maritime
+✅Cher (département)
+✅Corrèze (département)
 ✅Corse-du-Sud
+✅Creuse (département)
 ✅Côte-d'Or
 ✅Côtes-d'Armor
 ✅Deux-Sèvres
+✅Dordogne (département)
+✅Doubs (département)
+✅Drôme (département)
+✅Essonne (département)
+✅Eure (département)
 ✅Eure-et-Loir
 ✅Finistère
 ✅Gard
+✅Gers (département)
+✅Gironde (département)
 ✅Guadeloupe
 ✅Guyane
 ✅Haut-Rhin
@@ -70,32 +45,57 @@ Yonne (département)
 ✅Hautes-Alpes
 ✅Hautes-Pyrénées
 ✅Hauts-de-Seine
+✅Hérault (département)
 ✅Ille-et-Vilaine
+✅Indre (département)
 ✅Indre-et-Loire
+✅Isère (département)
+✅Jura (département)
 ✅La Réunion
+✅Landes (département)
 ✅Loir-et-Cher
 ✅Loire
 ✅Loire-Atlantique
+✅Loiret (département)
+✅Lot (département)
 ✅Lot-et-Garonne
+✅Lozère (département)
 ✅Maine-et-Loire
+✅Manche (département)
+✅Marne (département)
 ✅Martinique
+✅Mayenne (département)
 ✅Mayotte
 ✅Meurthe-et-Moselle
+✅Meuse (département)
 ✅Morbihan
+✅Moselle (département)
+✅Nièvre (département)
 ✅Nord
+✅Oise (département)
+✅Orne (département)
 ✅Paris
 ✅Pas-de-Calais
 ✅Puy-de-Dôme
 ✅Pyrénées-Atlantiques
 ✅Pyrénées-Orientales
 ✅Rhône
+✅Sarthe (département)
 ✅Savoie
 ✅Saône-et-Loire
 ✅Seine-et-Marne
 ✅Seine-Maritime
 ✅Seine-Saint-Denis
+✅Somme (département)
+✅Tarn (département)
 ✅Tarn-et-Garonne
 ✅Territoire de Belfort
 ✅Val-d'Oise
 ✅Val-de-Marne
+✅Var (département)
+✅Vaucluse (département)
+✅Vendée (département)
+✅Vienne (département)
+✅Vosges (département)
+✅Yonne (département)
 ✅Yvelines
