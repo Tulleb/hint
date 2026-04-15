@@ -2,11 +2,10 @@
 ✅AC/DC
 ✅Adele
 ✅Aerosmith
-✅Alabama
+Alabama (banda)
 ✅Alicia Keys
 ✅Aretha Franklin
 ✅Ariana Grande
-✅Artista de Voz
 ✅Ayumi Hamasaki
 ✅B'z
 ✅Backstreet Boys
@@ -26,7 +25,7 @@
 ✅Bryan Adams
 ✅Carpenters
 ✅Cher
-✅Chicago
+Chicago (banda)
 ✅Chris Brown (cantor)
 ✅Christina Aguilera
 ✅Coldplay
@@ -87,7 +86,7 @@
 ✅Michael Jackson
 ✅Neil Diamond
 ✅Nicki Minaj
-✅Nirvana
+Nirvana (banda)
 ✅Oasis
 ✅Olivia Newton-John
 ✅Paul McCartney
