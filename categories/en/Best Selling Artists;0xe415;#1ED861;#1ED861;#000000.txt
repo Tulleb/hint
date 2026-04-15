@@ -26,7 +26,7 @@
 ✅Bryan Adams
 ✅Celine Dion
 ✅Cher
-Chicago (band)
+✅Chicago (band)
 ✅Chris Brown
 ✅Christina Aguilera
 ✅Coldplay
@@ -70,7 +70,7 @@ Chicago (band)
 ✅Kelly Clarkson
 ✅Kenny G
 ✅Kenny Rogers
-Kiss (band)
+✅Kiss (band)
 ✅Lady Gaga
 ✅Led Zeppelin
 ✅Lil Wayne
@@ -86,15 +86,15 @@ Kiss (band)
 ✅Michael Jackson
 ✅Neil Diamond
 ✅Nicki Minaj
-Nirvana (band)
-Oasis (band)
+✅Nirvana (band)
+✅Oasis (band)
 ✅Olivia Newton-John
 ✅Paul McCartney
 ✅Phil Collins
 ✅Pink (singer)
 ✅Pink Floyd
 ✅Post Malone
-Prince (musician)
+✅Prince (musician)
 ✅Queen (band)
 ✅R. Kelly
 ✅R.E.M.

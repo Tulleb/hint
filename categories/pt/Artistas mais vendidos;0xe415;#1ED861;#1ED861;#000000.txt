@@ -1,8 +1,8 @@
+Alabama (banda)
 ✅ABBA
 ✅AC/DC
 ✅Adele
 ✅Aerosmith
-Alabama (banda)
 ✅Alicia Keys
 ✅Aretha Franklin
 ✅Ariana Grande
@@ -25,7 +25,7 @@ Alabama (banda)
 ✅Bryan Adams
 ✅Carpenters
 ✅Cher
-Chicago (banda)
+✅Chicago (banda)
 ✅Chris Brown (cantor)
 ✅Christina Aguilera
 ✅Coldplay
@@ -86,7 +86,7 @@ Chicago (banda)
 ✅Michael Jackson
 ✅Neil Diamond
 ✅Nicki Minaj
-Nirvana (banda)
+✅Nirvana (banda)
 ✅Oasis
 ✅Olivia Newton-John
 ✅Paul McCartney

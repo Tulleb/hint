@@ -2,7 +2,7 @@
 ✅AC/DC
 ✅Adele
 ✅Aerosmith
-Alabama (groupe)
+✅Alabama (groupe)
 ✅Alicia Keys
 ✅Aretha Franklin
 ✅Ariana Grande
@@ -24,7 +24,7 @@ Alabama (groupe)
 ✅Bruno Mars
 ✅Bryan Adams
 ✅Cher (artiste)
-Chicago (groupe)
+✅Chicago (groupe)
 ✅Chris Brown
 ✅Christina Aguilera
 ✅Coldplay
@@ -86,7 +86,7 @@ Chicago (groupe)
 ✅Neil Diamond
 ✅Nicki Minaj
 ✅Nirvana (groupe)
-Oasis (groupe)
+✅Oasis (groupe)
 ✅Olivia Newton-John
 ✅Paul McCartney
 ✅Phil Collins
