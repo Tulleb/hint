@@ -1,14 +1,14 @@
 # Categories Processing Report
 
-**Generated on:** 2026-04-15 13:46:22 UTC
+**Generated on:** 2026-05-06 08:26:20 UTC
 **Data folder:** /home/runner/work/hint/hint/main/categories
 
 ## Summary
 
 - **Languages processed:** 3
 - **Total files processed:** 50
-- **Total entries processed:** 3517
-- **Successful fetches:** 3507
+- **Total entries processed:** 3516
+- **Successful fetches:** 3506
 - **Failed fetches:** 10
 - **Success rate:** 99.7%
 
@@ -109,8 +109,8 @@
 <summary>FR - 99.6% ❌ (6 failed)</summary>
 
 - **Files processed:** 20
-- **Total entries:** 1388
-- **Successful:** 1382
+- **Total entries:** 1387
+- **Successful:** 1381
 - **Failed:** 6
 
 ### FR Files
