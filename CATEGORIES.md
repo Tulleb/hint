@@ -1,6 +1,6 @@
 # Categories Processing Report
 
-**Generated on:** 2026-05-06 08:26:20 UTC
+**Generated on:** 2026-05-17 18:38:07 UTC
 **Data folder:** /home/runner/work/hint/hint/main/categories
 
 ## Summary
@@ -25,7 +25,7 @@
 ### EN Files
 
 <details>
-<summary>Disney (0xf04cb) [Foreground: #FFFFFF] [Icon: #FFFFFF] [Background: #113E8D]: 100.0% ✅</summary>
+<summary>Top 80s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
@@ -39,42 +39,12 @@
 </details>
 
 <details>
-<summary>Top 80s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Countries +100M population (0xe28e) [Foreground: #210F04] [Icon: #281301] [Background: #E06D06]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Top Streamed Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Celebrities (0xe5f9) [Foreground: #210F04] [Icon: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
-
-</details>
-
-<details>
 <summary>Top 2000s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Top 60s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Countries +10M population (0xe28e) [Foreground: #210F04] [Icon: #121716] [Background: #B1C1C0]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>NBA Teams (0xe5e6) [Foreground: #FFFFFF] [Icon: #CC2B32] [Background: #0054A4]: 100.0% ✅</summary>
+<summary>Disney (0xf04cb) [Foreground: #FFFFFF] [Icon: #FFFFFF] [Background: #113E8D]: 100.0% ✅</summary>
 
 </details>
 
@@ -84,12 +54,27 @@
 </details>
 
 <details>
+<summary>Top Streamed Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Countries +10M population (0xe28e) [Foreground: #210F04] [Icon: #121716] [Background: #B1C1C0]: 100.0% ✅</summary>
+
+</details>
+
+<details>
 <summary>Top 90s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Best Selling Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+<summary>Countries +100M population (0xe28e) [Foreground: #210F04] [Icon: #281301] [Background: #E06D06]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Business Companies (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 100.0% ✅</summary>
 
 </details>
 
@@ -99,7 +84,22 @@
 </details>
 
 <details>
-<summary>Business Companies (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 100.0% ✅</summary>
+<summary>NBA Teams (0xe5e6) [Foreground: #FFFFFF] [Icon: #CC2B32] [Background: #0054A4]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Top 60s Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Celebrities (0xe5f9) [Foreground: #210F04] [Icon: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Best Selling Artists (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
@@ -116,22 +116,27 @@
 ### FR Files
 
 <details>
-<summary>Entreprises Mondiales (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 100.0% ✅</summary>
+<summary>Films (0xe40d) [Foreground: #210F04] [Icon: #7A6C5D] [Background: #9DCBBA]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Top artistes 70s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Franchises NBA (0xe5e6) [Foreground: #FFFFFF] [Icon: #CC2B32] [Background: #0054A4]: 100.0% ✅</summary>
+<summary>Top artistes streaming (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
 <details>
 <summary>Disney (0xf04cb) [Foreground: #FFFFFF] [Icon: #FFFFFF] [Background: #113E8D]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Entreprises Mondiales (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Top artistes 80s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
@@ -143,73 +148,12 @@
 </details>
 
 <details>
-<summary>Top artistes 80s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
 <summary>Top artistes 60s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Pays +10M habitants (0xe28e) [Foreground: #210F04] [Icon: #121716] [Background: #B1C1C0]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Pays +1M habitants (0xe28e) [Foreground: #210F04] [Icon: #292100] [Background: #FFCE0A]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Séries Années 90 (0xe40d) [Foreground: #210F04] [Icon: #7A6C5D] [Background: #9DCBBA]: 86.8% ❌ (5 failed)</summary>
-
-- 'Arabesque': Wikipedia page for 'Arabesque' is a disambiguation page.
-- 'Dawson': Wikipedia page for 'Dawson' is a disambiguation page.
-- 'Hooker': Wikipedia page for 'Hooker' is a disambiguation page.
-- 'K2000': Wikipedia page for 'K2000' has no content.
-- 'Sherif fais moi peur': Wikipedia page for 'Sherif,_fais-moi_peur' has no content.
-
-</details>
-
-<details>
-<summary>Top artistes global (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Top artistes streaming (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Films (0xe40d) [Foreground: #210F04] [Icon: #7A6C5D] [Background: #9DCBBA]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Célébrités (0xe5f9) [Foreground: #210F04] [Icon: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Années depuis 1980 (0xe122) [Foreground: #E6584F] [Icon: #E6584F] [Background: #F8F7F7]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Top artistes 2000s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Enfants (0xe160) [Foreground: #FEFEFE] [Icon: #083D77] [Background: #F95738]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Top artistes 90s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+<summary>Franchises NBA (0xe5e6) [Foreground: #FFFFFF] [Icon: #CC2B32] [Background: #0054A4]: 100.0% ✅</summary>
 
 </details>
 
@@ -220,6 +164,62 @@
 
 <details>
 <summary>Équipe de France de Football (0xe5f2) [Foreground: #CFAE77] [Icon: #FFFFFF] [Background: #0171B5]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Pays +1M habitants (0xe28e) [Foreground: #210F04] [Icon: #292100] [Background: #FFCE0A]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Top artistes 70s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Séries Années 90 (0xe40d) [Foreground: #210F04] [Icon: #7A6C5D] [Background: #9DCBBA]: 86.8% ❌ (5 failed)</summary>
+
+- 'Arabesque': Wikipedia page for 'Arabesque' is a disambiguation page.
+- 'Dawson': Wikipedia page for 'Dawson' is a disambiguation page.
+- 'Hooker': Wikipedia page for 'Hooker' is a disambiguation page.
+- 'K2000': Wikipedia page for 'K2000' has no content.
+- 'Sherif fais moi peur': Wikipedia page for 'Sherif_fais_moi_peur_2' has no content.
+
+</details>
+
+<details>
+<summary>Pays +10M habitants (0xe28e) [Foreground: #210F04] [Icon: #121716] [Background: #B1C1C0]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Top artistes global (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Top artistes 90s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Top artistes 2000s (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Années depuis 1980 (0xe122) [Foreground: #E6584F] [Icon: #E6584F] [Background: #F8F7F7]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Célébrités (0xe5f9) [Foreground: #210F04] [Icon: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Enfants (0xe160) [Foreground: #FEFEFE] [Icon: #083D77] [Background: #F95738]: 100.0% ✅</summary>
 
 </details>
 
@@ -236,7 +236,12 @@
 ### PT Files
 
 <details>
-<summary>Países +100M habitantes (0xe28e) [Foreground: #210F04] [Icon: #281301] [Background: #E06D06]: 100.0% ✅</summary>
+<summary>Artistas mais tocados (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Artistas anos 80 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 
@@ -246,12 +251,47 @@
 </details>
 
 <details>
-<summary>Artistas anos 90 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+<summary>Países +1M habitantes (0xe28e) [Foreground: #210F04] [Icon: #292100] [Background: #FFCE0A]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Novelas Brasileiras (0xe687) [Foreground: #FFCC01] [Icon: #2C2182] [Background: #02953D]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Celebridades (0xe5f9) [Foreground: #210F04] [Icon: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Empresas Comerciais (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 100.0% ✅</summary>
 
 </details>
 
 <details>
 <summary>Países +10M habitantes (0xe28e) [Foreground: #210F04] [Icon: #121716] [Background: #B1C1C0]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Artistas música brasileira (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Artistas anos 2000 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Artistas anos 90 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
+
+</details>
+
+<details>
+<summary>Países +100M habitantes (0xe28e) [Foreground: #210F04] [Icon: #281301] [Background: #E06D06]: 100.0% ✅</summary>
 
 </details>
 
@@ -263,52 +303,12 @@
 </details>
 
 <details>
-<summary>Artistas mais tocados (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Empresas Comerciais (0xe089) [Foreground: #210F04] [Icon: #6D6A75] [Background: #79C99E]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Artistas anos 60 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Celebridades (0xe5f9) [Foreground: #210F04] [Icon: #FFE270] [Background: #A882DD]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Artistas anos 2000 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Países +1M habitantes (0xe28e) [Foreground: #210F04] [Icon: #292100] [Background: #FFCE0A]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Artistas anos 80 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
 <summary>Anos desde 1980 (0xe122) [Foreground: #E6584F] [Icon: #E6584F] [Background: #F8F7F7]: 100.0% ✅</summary>
 
 </details>
 
 <details>
-<summary>Artistas música brasileira (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
-
-</details>
-
-<details>
-<summary>Novelas Brasileiras (0xe687) [Foreground: #FFCC01] [Icon: #2C2182] [Background: #02953D]: 100.0% ✅</summary>
+<summary>Artistas anos 60 (0xe415) [Foreground: #1ED861] [Icon: #1ED861] [Background: #000000]: 100.0% ✅</summary>
 
 </details>
 

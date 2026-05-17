@@ -8,7 +8,7 @@
 ✅Bienvenue chez les Ch'tis
 ✅Bohemian Rhapsody (film)
 ✅Brice de Nice
-Camping (film, 2006)
+✅Camping (film, 2006)
 ✅Charlie et la Chocolaterie (film, 2005)
 ✅Chouchou (film)
 ✅Coup de foudre à Notting Hill
@@ -78,9 +78,9 @@ Camping (film, 2006)
 ✅Star Wars, épisode VIII : Les Derniers Jedi
 ✅Super Mario Bros., le film
 ✅Tarzan
-Taxi (film, 1998)
+✅Taxi (film, 1998)
 ✅Tenet (film)
-Titanic (film, 1997)
+✅Titanic (film, 1997)
 ✅Top Gun (film)
 ✅Un p'tit truc en plus
 ✅Vaiana : La Légende du bout du monde
